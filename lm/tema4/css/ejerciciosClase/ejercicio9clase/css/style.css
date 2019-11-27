@@ -1,0 +1,20 @@
+#img1 {
+    display : list-item;
+    width: 35vw;
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+
+#img2 {
+    display : list-item;
+    width : 35vw;
+    -webkit-filter: blur(2px);
+    filter: blur(2px);
+}
+
+#img3 {
+    display : list-item;
+    width: 35vw;
+    -webkit-filter: invert(1);
+    filter: invert(1);
+}

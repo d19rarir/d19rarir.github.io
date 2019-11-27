@@ -1,0 +1,8 @@
+.myclass{
+    text-align: center;
+    color: yellow;
+    font-size: 5vw;
+    padding: 10vw;
+    border: solid;
+    background: repeating-radial-gradient(red 30%, black 60%);
+}
