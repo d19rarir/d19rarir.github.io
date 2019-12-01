@@ -1,0 +1,25 @@
+#img1:hover {
+    display : list-item;
+    width: 15vw;
+    animation: img1 3s linear 4 backwards;
+}
+
+#img2:hover {
+    display : list-item;
+    width : 35vw;
+    -webkit-filter: blur(2px);
+    filter: blur(2px);
+}
+
+#img3:hover {
+    display : list-item;
+    width: 35vw;
+    -webkit-filter: invert(1);
+    filter: invert(1);
+}
+
+@keyframes img1{
+    to {
+        transform: scale(2);
+    }
+}
