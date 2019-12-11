@@ -1,0 +1,20 @@
+div {
+    width: 100px;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+
+}
+
+.img{
+    color: rgb(255, 0, 255);
+    font-weight: bolder;
+    background: url(/d19rarir.github.io/lm/tema4/css/tareas/bloque4/ejercicio1/img/background.jpeg);
+    border: 2px solid black;
+
+}
+
+footer {
+    margin-top: 50px;
+}

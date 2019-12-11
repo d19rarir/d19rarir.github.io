@@ -1,3 +1,100 @@
-selector{
-    propiedad : valor;
+
+ul {
+    list-style-type: none;
+    align-items: center;
+    padding: 1em;
+
+}
+
+ul li {
+    padding: .6em .8em;
+    align-items: center;
+    border: solid rgb(47, 47, 51);
+    display: inline-block;
+    
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul li a{
+    color: #fff;
+    display: block;
+    align-items: center;
+    text-decoration: none;
+}
+
+header {
+    margin-top: -1em;
+}
+
+body {
+    text-align: center;
+    font-family: monospace;
+    background-image: url(/d19rarir.github.io/img/Background.jpeg);
+    margin: 0;
+    padding: 0;
+    
+}
+
+.top-gray-container {
+    background : #413e3e;
+    width: 100%;
+    color: #ffffff;
+}
+
+.main-container {
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+    padding: 20px;
+    border: 30px;
+    background: #524d4d ;
+    opacity: 0.9;
+    
+
+}
+
+h1 {
+    font-size: 400%;
+    opacity: 1;
+}
+
+.subtitle {
+    font-style: italic;
+    font-size: 100%;
+    font: bolder;
+
+}
+
+header h2 {
+    padding-top: 16px;
+}
+
+.bottom-gray-container {
+    background : #413e3e;
+    width: 100%;
+    color: #ffffff;
+    display: flex;
+}
+
+footer{
+    position: absolute;
+    bottom: 0px;
+    padding-bottom: x;
+    height:80px;
+    
+    
+}
+
+footer a img{
+    width: 50px;
+    height: 40px;
+}
+
+.home {
+    float: right;
+
 }
