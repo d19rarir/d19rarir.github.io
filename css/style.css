@@ -1,4 +1,7 @@
-
+* {
+    margin: 0;
+    padding: 0;
+}
 ul {
     list-style-type: none;
     align-items: center;
@@ -14,9 +17,14 @@ ul li {
     
 }
 
+.main-nav {
+    margin-top: 6px;
+}
+
 .navigation {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 ul li a{
@@ -70,7 +78,9 @@ h1 {
 }
 
 header h2 {
-    padding-top: 16px;
+    padding-top: 6px;
+    display: inline-block;
+    margin-top: 12px;
 }
 
 .bottom-gray-container {
@@ -95,6 +105,6 @@ footer a img{
 }
 
 .home {
-    float: right;
-
+    height: 50px;
+    padding-right: 9px;
 }
