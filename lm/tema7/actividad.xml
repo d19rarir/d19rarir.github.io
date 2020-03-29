@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE personas[
+<!ELEMENT personas (persona+)>
+<!ELEMENT persona (nombre, mayor_edad* , ciudad)>
+<!ATTLIST persona formapago (Tarjeta|Contado) "Contado">
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT mayor_edad EMPTY>
+<!ELEMENT ciudad (#PCDATA)>
+]>
+
+<personas>
+    <persona>
+        <nombre>Ruben Ramirez</nombre>
+        <mayor_edad/>
+        <ciudad>Cordoba</ciudad>
+    </persona>
+
+    <persona formapago="Tarjeta"> 
+        <nombre>Dora la exploradora</nombre>
+        <ciudad>Cordoba</ciudad>
+    </persona>
+</personas>

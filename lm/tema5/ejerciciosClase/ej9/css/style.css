@@ -1,0 +1,30 @@
+body {
+    margin : 0px;
+    padding : 0px;
+    background-color: gray;
+
+}
+
+@media (max-width: 1000px) {
+    body {
+        background-color: green;
+
+    }
+
+}
+
+@media (max-width: 900px) {
+    body {
+        background-color: yellow;
+
+    }
+
+}
+
+@media (max-width: 720px) {
+    body {
+        background-color: red;
+
+    }
+
+}

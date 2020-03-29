@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reyes>
+    <pais id = "1">
+        <nombre>Gran Bretaña</nombre>
+        <capital>Londres</capital>
+        <reina>Isabel</reina>
+    </pais>
+    <pais id = "2">
+        <nombre>Francia</nombre>
+        <capital>Paris</capital>
+    </pais>
+    <pais id = "3">
+        <nombre>Noruega</nombre>
+        <capital>Oslo</capital>
+        <rey>Harald</rey>
+        <reina>Sonia</reina>
+    </pais>
+</reyes>

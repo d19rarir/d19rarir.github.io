@@ -1,0 +1,18 @@
+nav ul {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+li {
+    border: solid purple;
+    padding: 10px;
+    color: purple;
+    font-weight: bolder;
+    list-style-type: none;
+    
+}
+
+a {
+    text-decoration: none;
+}

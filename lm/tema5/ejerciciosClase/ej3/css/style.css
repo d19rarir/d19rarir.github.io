@@ -1,0 +1,12 @@
+body{
+    width: 800px;
+    margin: 0 auto;
+
+}
+
+.floating {
+    float: left;
+    padding: 50px;
+    margin: 50px;
+    background-color: rgb(260,94, 63);
+}

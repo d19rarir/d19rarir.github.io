@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE errores[
+<!ELEMENT errores (error*)>
+<!ELEMENT error (descripcion,codigo,actividad,fecha_hora,nlinea,ncolumna)>
+<!ATTLIST error id CDATA #REQUIRED>
+<!ATTLIST error tipo (AVISO|WARNING|FATAL) #REQUIRED>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT codigo (#PCDATA)>
+<!ELEMENT actividad (#PCDATA)>
+<!ELEMENT fecha_hora (#PCDATA)>
+<!ELEMENT nlinea (#PCDATA)>
+<!ELEMENT ncolumna (#PCDATA)>
+]>
+
+<errores>
+    <error id="1" tipo="AVISO">
+        <descripcion>
+            Tipos no coinciden
+        </descripcion>
+        <codigo>
+            cod1
+        </codigo>
+        <actividad>
+            nota.dtd
+        </actividad>
+        <fecha_hora>
+            17/02/2020
+        </fecha_hora>
+        <nlinea>
+            15
+        </nlinea>
+        <ncolumna>
+            3
+        </ncolumna>
+    </error>
+    <error id="2" tipo="WARNING">
+        <descripcion>
+            Tipos no coinciden
+        </descripcion>
+        <codigo>
+            cod2
+        </codigo>
+        <actividad>
+            nota.dtd
+        </actividad>
+        <fecha_hora>
+            17/02/2020
+        </fecha_hora>
+        <nlinea>
+            15
+        </nlinea>
+        <ncolumna>
+            3
+        </ncolumna>
+    </error>
+    <error id="3" tipo="AVISO">
+        <descripcion>
+            Tipos no coinciden
+        </descripcion>
+        <codigo>
+            cod3
+        </codigo>
+        <actividad>
+            ejemplo13.xml
+        </actividad>
+        <fecha_hora>
+            17/02/2020 09:29
+        </fecha_hora>
+        <nlinea>
+            11
+        </nlinea>
+        <ncolumna>
+            1
+        </ncolumna>
+    </error>
+    <error id="4" tipo="AVISO">
+        <descripcion>
+            Falta etiqueta nodo
+        </descripcion>
+        <codigo>
+            cod4
+        </codigo>
+        <actividad>
+            ejemplo-agenda.xml
+        </actividad>
+        <fecha_hora>
+            17/02/2020 09:42
+        </fecha_hora>
+        <nlinea>
+            10
+        </nlinea>
+        <ncolumna>
+            1
+        </ncolumna>
+    </error>
+    <error id="5" tipo="AVISO">
+        <descripcion>
+            Atributo id requerido
+        </descripcion>
+        <codigo>
+            cod5
+        </codigo>
+        <actividad>
+            ejemplo14.xml
+        </actividad>
+        <fecha_hora>
+            17/02/2020 09:45
+        </fecha_hora>
+        <nlinea>
+            11
+        </nlinea>
+        <ncolumna>
+            5
+        </ncolumna>
+    </error>
+    <error id="6" tipo="AVISO">
+        <descripcion>
+            Elementos de persona no coinciden
+        </descripcion>
+        <codigo>
+            cod6
+        </codigo>
+        <actividad>
+            ejemplo14.xml
+        </actividad>
+        <fecha_hora>
+            17/02/2020 09:46
+        </fecha_hora>
+        <nlinea>
+            18
+        </nlinea>
+        <ncolumna>
+            9
+        </ncolumna>
+    </error>
+    <error id="7" tipo="AVISO">
+        <descripcion>
+            Atributo carnet no es compatible con su tipo de dato
+        </descripcion>
+        <codigo>
+            cod7
+        </codigo>
+        <actividad>
+            ejemplo15.xml
+        </actividad>
+        <fecha_hora>
+            17/02/2020 10:08
+        </fecha_hora>
+        <nlinea>
+            14
+        </nlinea>
+        <ncolumna>
+            22
+        </ncolumna>
+    </error>
+    <error id="8" tipo="AVISO">
+        <descripcion>
+            Atributo carnet no es compatible con su tipo de dato
+        </descripcion>
+        <codigo>
+            cod8
+        </codigo>
+        <actividad>
+            ejemplo15.xml
+        </actividad>
+        <fecha_hora>
+            17/02/2020 10:10
+        </fecha_hora>
+        <nlinea>
+            14
+        </nlinea>
+        <ncolumna>
+            22
+        </ncolumna>
+    </error>
+</errores>

@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: black;
+    text-align: center;
+}
+
+.top-header {
+    color: white;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.top-header p {
+    font-weight: bolder;
+    font-style: oblique;
+
+}
+
+ul {
+    list-style : none;
+}
+
+.nav li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    padding: .6em .8em;
+    align-items: center;
+    border: solid rgb(58, 11, 66);
+    display: inline-block;
+   
+}
+
+footer {
+    background: black;
+    color: white;
+    display: flex;
+    bottom: 0px;
+    position: absolute;
+    
+}
+
+footer ul{    
+    padding: .6em .8em;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+img {
+    width: 45px;
+}
+
+.ej1 {
+    background-image: url(/d19rarir.github.io/lm/examen/RamírezRiveraRuben/img/klematis.jpg);
+    border: solid 3px black;
+    margin: 12px;
+    width: 70%;
+}
+
+.marco p {
+    border: gray 2px;
+    background: gray;
+    color: black;
+    opacity: 0.6px;
+}
+.cajas div {
+    width: 100px;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: left;
+    margin: 10px;
+}
+
+. .cajas{
+    display: flex;
+}
+
+.img{
+    color: white;
+    font-weight: bolder;
+    background: url(../img/klematis.jpg);
+    border: 2px solid black;
+
+}
+
+.none{
+    color: black;
+}
+
+.img:hover {
+    filter: blur(2px);
+}
+
+.caja-vacia {
+    margin: 25px;
+    border: solid black 2px;
+    width: 300px;
+    height: 216px;
+}
+
+.caja-amarilla {
+    padding-left: 6px;
+    width: 150px;
+    background: yellow;
+}
+
+.title1 , .title3 , .title5 {
+    background: blue;
+}
+
+.title2 , .title4 {
+    background: cyan;
+}
+
+td:hover {
+    background: yellowgreen;
+}

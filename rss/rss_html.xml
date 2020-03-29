@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Ruben Ramirez Web Page</title>
+        <link>https://rubramriv73.github.io/d19rarir.github.io/</link>
+        <description> Ruben Ramirez. RSS</description>
+            <item>
+                <title>Tema 7. Actividad 1</title>
+                <link>https://rubramriv73.github.io/d19rarir.github.io/lm/tema7/actividad1</link>
+                <descripcion>Xml con xsd de Paises</descripcion>
+                <title>Tema 7. Actividad 2</title>
+                <link>https://rubramriv73.github.io/d19rarir.github.io/lm/tema7/actividad2</link>
+                <descripcion>Xml con xsd de Personas</descripcion>
+                <title>Tema 7. Actividad 3</title>
+                <link>https://rubramriv73.github.io/d19rarir.github.io/lm/tema7/actividad3</link>
+                <descripcion>Xml con xsd de Personas v1</descripcion>
+                <title>Tema 7. Actividad 4</title>
+                <link>https://rubramriv73.github.io/d19rarir.github.io/lm/tema7/actividad4</link>
+                <descripcion>Xml con xsd de Personas v2</descripcion>
+                <title>Tema 7. Actividad 5</title>
+                <link>https://rubramriv73.github.io/d19rarir.github.io/lm/tema7/actividad5</link>
+                <descripcion>Xml con xsd de Ciclos</descripcion>
+            </item>
+    </channel>
+</rss>

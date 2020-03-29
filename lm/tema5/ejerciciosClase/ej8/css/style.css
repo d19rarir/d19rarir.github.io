@@ -1,0 +1,42 @@
+body {
+    display : grid;
+    grid-template-areas: 
+        "header header header"
+        "nav article ads"
+        "footer footer footer";
+    grid-template-rows: 50px 1fr 50px;
+    grid-template-columns: 20% 1fr 20%;
+    grid-gap: 5px;
+    height: 100vh;
+    margin: 0;
+}
+
+header, footer, article, nav, div {
+    padding: 15px;
+    background: yellow;
+
+}
+
+#header {
+    grid-area: header;
+
+}
+
+#footer {
+    grid-area: footer;
+
+}
+
+#article {
+    grid-area: article;
+
+}
+
+#nav {
+    grid-area: nav;
+
+}
+
+#div {
+    grid-area: ads;
+}

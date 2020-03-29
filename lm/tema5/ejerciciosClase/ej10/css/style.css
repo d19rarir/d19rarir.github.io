@@ -1,0 +1,58 @@
+body {
+    margin : 0px;
+    padding: 5px;
+    border: solid 1px black;
+    background-color: gray;
+
+}
+
+header , .section1, .content, .sidebar, footer {
+    margin: 2px;
+    padding: 5px;
+    border: solid 3px black;
+
+}
+header {
+    background-color: red;
+}
+
+.section1 {
+    background-color: green;
+}
+
+@media (min-width: 640px) {
+    .flex-container {
+        display: flex;
+
+    }
+    body {
+        background-color: blue;
+    }
+}
+
+.content {
+    background-color: orangered;
+    flex: 1;
+
+}
+
+.sidebar {
+    background-color: blue;
+    flex: 0 1 320px;
+    
+}
+
+.flex-container {
+    flex: auto;
+}
+
+
+
+
+footer {
+    margin: 2px;
+    padding: 5px;
+    border: solid 3px black;
+    background-color: brown;
+}
+
