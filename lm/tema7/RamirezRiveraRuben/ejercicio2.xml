@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rrhh xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="ejercicio2.xsd">
+    <curriculum id="1" presentacion="2020-03-23" categoria="desarrollador">
+        <datosPersonales>
+            <nombre>Ruben</nombre>
+            <apellido1>Ramirez</apellido1>
+            <apellido2>Rivera</apellido2>
+            <correoElectronico>ruben@gmail.com</correoElectronico>
+            <direccion>
+                <calle>Mi casa</calle>
+                <localidad>Cordoba</localidad>
+                <codigoPostal></codigoPostal>
+                <provincia>Cordoba</provincia>
+                <pais>España</pais>
+            </direccion>
+            <redesSociales>
+                <nombre>Ruben</nombre>
+                <nick>rubensio</nick>
+                <enlace>twitter.es/rubensio</enlace>
+                <valoracion>2</valoracion>
+            </redesSociales>
+        </datosPersonales>
+        <datosAcademicos>
+            <titulacionOficial>
+                <descripcion>DAW</descripcion>
+                <organimosResposable>Junta Andalucia</organimosResposable>
+                <fechaInicio>2019-10-03</fechaInicio>
+                <fechaFin>2020-03-16</fechaFin>
+            </titulacionOficial>
+            <cursos>
+                <descripcion>Programacion JAVA</descripcion>
+                <empresaResponsable>Oracle</empresaResponsable>
+                <fechaInicio>2019-10-03</fechaInicio>
+                <fechaFin>2020-03-16</fechaFin>
+            </cursos>
+            <nivelIdioma>
+                <idioma>Ingles</idioma>
+                <comprender>B1</comprender>
+                <hablar>B1</hablar>
+                <escribir>B1</escribir>
+            </nivelIdioma>
+        </datosAcademicos>
+        <experienciaLaboral>
+            <empresa>Casa</empresa>
+            <fecha>2019-06-20</fecha>
+            <desempeño>Cajero</desempeño>
+        </experienciaLaboral>
+    </curriculum>
+</rrhh>

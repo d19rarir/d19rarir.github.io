@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE red [
+<!ELEMENT red (centro)*>
+<!ELEMENT centro (nombre,grado,anyo,localizacion)>
+<!ATTLIST centro type CDATA #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT grado (#PCDATA)>
+<!ELEMENT anyo (#PCDATA)>
+<!ELEMENT localizacion (ciudad,comunidad)>
+<!ELEMENT comunidad (#PCDATA)>
+<!ELEMENT ciudad (#PCDATA)>
+]>
+
+<red>
+    <centro type="FP">
+        <nombre>I.E.S. Gran Capitan</nombre>
+        <grado>DAW</grado>
+        <anyo>2020</anyo>
+        <localizacion>
+            <ciudad>Cordoba</ciudad>
+            <comunidad>Cordoba</comunidad>
+        </localizacion>
+    </centro>
+    <centro type="FP">
+        <nombre>I.E.S. Lopez Neyra</nombre>
+        <grado>TAFAD</grado>
+        <anyo>2016</anyo>
+        <localizacion>
+            <ciudad>Cordoba</ciudad>
+            <comunidad>Cordoba</comunidad>
+        </localizacion>
+    </centro>
+</red>

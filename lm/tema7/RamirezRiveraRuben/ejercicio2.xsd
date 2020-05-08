@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="rrhh">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name = "curriculum" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="datosPersonales" type="personal"/>
+                            <xs:element name="datosAcademicos" type="academico"/>
+                            <xs:element name="experienciaLaboral" type="laboral" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                        <xs:attribute name="id" type="xs:positiveInteger" use="required"/>
+                        <xs:attribute name="presentacion" type="xs:date" use="required"/>
+                        <xs:attribute name="categoria" type="xs:string" default="desarrollador" use="optional"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="personal">
+        <xs:sequence>
+            <xs:element name="nombre" type="xs:string"/>
+            <xs:element name="apellido1" type="xs:string"/>
+            <xs:element name="apellido2" type="xs:string"/>
+            <xs:element name="correoElectronico" type="xs:string"/>
+            <xs:element name="direccion" maxOccurs="2">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="calle" type="xs:string"/>
+                        <xs:element name="localidad" type="xs:string" default="Cordoba"/>
+                        <xs:element name="codigoPostal" type="xs:positiveInteger"/>
+                        <xs:element name="provincia" type="xs:string" default="Cordoba"/>
+                        <xs:element name="pais" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="redesSociales" maxOccurs="5">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="nombre" type="xs:string"/>
+                        <xs:element name="nick" type="xs:string"/>
+                        <xs:element name="enlace" type="xs:string"/>
+                        <xs:element name="valoracion">
+                            <xs:simpleType>
+                                <xs:restriction base="xs:positiveInteger">
+                                    <xs:minInclusive value="1"/>
+                                    <xs:maxInclusive value="5"/>
+                                </xs:restriction>
+                            </xs:simpleType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="academico">
+        <xs:sequence>
+            <xs:element name="titulacionOficial">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="descripcion" type="xs:string"/>
+                        <xs:element name="organimosResposable" type="xs:string"/>
+                        <xs:element name="fechaInicio" type="xs:date"/>
+                        <xs:element name="fechaFin" type="xs:date"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="cursos">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="descripcion" type="xs:string"/>
+                        <xs:element name="empresaResponsable" type="xs:string"/>
+                        <xs:element name="fechaInicio" type="xs:date"/>
+                        <xs:element name="fechaFin" type="xs:date"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="nivelIdioma" maxOccurs="unbounded">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="idioma" type="xs:string"/>
+                        <xs:element name="comprender" type="level"/>
+                        <xs:element name="hablar" type="level"/>
+                        <xs:element name="escribir" type="level"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="laboral">
+        <xs:sequence>
+            <xs:element name="empresa" type="xs:string"/>
+            <xs:element name="fecha" type="xs:date"/>
+            <xs:element name="desempeño" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:simpleType name="level">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="A1"/>
+            <xs:enumeration value="A2"/>
+            <xs:enumeration value="B1"/>
+            <xs:enumeration value="B2"/>
+            <xs:enumeration value="C1"/>
+            <xs:enumeration value="C2"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>
