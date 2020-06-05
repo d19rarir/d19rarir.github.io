@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acceso Odoo</title>
+
+    <!-- CSS y Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/style.css">
+
+    <!-- JS Bootstrap -->
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
+</head>
+<body>
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+        <a href="../" class="navbar-brand">RWP</a>
+            <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarMenu">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a href="../erp/" class="nav-link">¿Qué es un ERP?</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="../odoo/" class="nav-link">ODOO</a>
+                    </li>
+                </ul>
+            </div>
+    </nav>
+    <div class="card ">
+        <div class="card-header">
+            <ul class="nav nav-pills nav-fill card-header-pills">
+                <li class="nav-item">
+                    <a class="nav-link color-link" href="index.html">ODOO</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link color-link" href="descarga.html">Descarga</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link color-link" href="instalacion.html">Instalación</a>
+                </li>
+                <li class="nav-item pill-color">
+                    <a class="nav-link active" href="acceso.html">Acceso</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle color-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Primeros Pasos</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item color-link" href="sitioweb.html">Sitio Web</a>
+                        <a class="dropdown-item color-link" href="evento.html">Evento</a>
+                        <a class="dropdown-item color-link" href="tienda.html">Tienda</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="odoo card-body text-center">
+            <h2 class="card-title text-center">ACCESO A ODOO</h2>
+            <h5 class="card-text text-justify">
+                Una vez creada la base de datos de Odoo volvemos a acceder a 
+                <a href="http://localhost:8069/" title="Ir a localhost:8069">localhost:8069</a>
+                donde encontraremos las distintas funciones con las que permite trabajar Odoo.
+                En mi caso para realizar las pruebas seleccionare Sitio Web pulsando el botón instalar.
+            </h5>
+            <img class="card-img capturas" src="../img/ins&configOdoo/seleccion.png" alt="Selección Función Odoo" title="Selección Función Odoo">
+            <h5 class="card-text text-justify">
+                <br/>Tras acceder a la función de Sitio Web nos llevará a una página en la que seleccionaremos el tema
+                con el que queremos que se cree nuestro Sitio Web. 
+            </h5>
+            <br/><img class="card-img capturas" src="../img/ins&configOdoo/temaSitioWeb.png" alt="Selección Sitio Web Odoo" title="Selección Sitio Web Odoo">
+            <h5 class="card-text text-justify">
+                <br/>Acceso Completado, acceda al siguiente paso para conocer la edición del Sitio Web.
+            </h5>
+            <br/><a href="sitioweb.html" class="btn boton-odoo btn-block">PASO 4.1 : PRIMEROS PASOS. SITIO WEB</a>
+        </div>
+      </div>
+</body>
+</html>
