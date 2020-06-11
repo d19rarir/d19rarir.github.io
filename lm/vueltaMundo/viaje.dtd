@@ -1,0 +1,15 @@
+<!ELEMENT viajes (viaje)>
+<!ATTLIST viajes xmlns:xsi CDATA #IMPLIED>
+<!ATTLIST viajes xsi:noNamespaceSchemaLocation CDATA #IMPLIED>
+<!ELEMENT viaje (etapa*)>
+<!ELEMENT etapa (ciudad_salida,ciudad_llegada,transporte*,precio,anecdota,descripcion,foto*,kml)>
+<!ATTLIST etapa num CDATA #REQUIRED>
+<!ATTLIST etapa fecha CDATA #REQUIRED>
+<!ELEMENT ciudad_salida (#PCDATA)>
+<!ELEMENT ciudad_llegada (#PCDATA)>
+<!ELEMENT transporte (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT anecdota (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT foto (#PCDATA)>
+<!ELEMENT kml (#PCDATA)>

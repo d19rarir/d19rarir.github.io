@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>El viaje alrededor del mundo de Rubén</title>
+        <link></link>
+        <description>Blog digital de mi viaje alrededor del mundo</description>
+        <item>
+            <title>Etapa 1 / Córdoba - Madrid</title>
+            <link></link>
+            <description>Aqui se muestra la primera etapa del viaje</description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DTD -->
+<!DOCTYPE viajes SYSTEM "viaje.dtd">
+
+<!-- XSLT -->
+<?xml-stylesheet type="text/xsl" href="viaje.xsl"?>
+
+<!-- Inicio del viaje -->
+<viajes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="viaje.xsd">
+    <viaje>
+
+        <!-- Etapa 1 -->
+        <etapa num="1" fecha="07/03/2021">
+            <ciudad_salida>Córdoba</ciudad_salida>
+            <ciudad_llegada>Madrid</ciudad_llegada>
+            <transporte>AVE</transporte>
+            <precio>22</precio>
+            <anecdota>Nada mejor que empezar una vuelta al mundo el dia de tu cumpleaños</anecdota>
+            <descripcion>
+                Primer día de esta aventura que acaba de comenzar. 7 de Marzo de 2021, ¿qué más se puede el día 
+                de tu cumpleaños? Este viaje comienza camino a la capital de España, Madrid será el punto de partida 
+                de este viaje alrededor del mundo. Será algo express porque no tenemos mucho tiempo pero si el 
+                suficiente para que el viaje sea divertido. Nos desplazamos desde Córdoba a Madrid en AVE, una vez
+                allí pasamos el día visitando los lugares más conocidos de la ciudad, El Retiro, Gran Vía, Puerta del Sol
+                y no olvidarnos de comer en Tierra Burritos a mi novia y a mi nos hacía mucha ilusión comer alli. No pudimos hacer
+                mucho más porque al día siguiente nuestro vuelo a Sudáfrica salía temprano. Tocaba descansar. 
+            </descripcion>
+            <foto>./img/Madrid.jpg</foto>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=1oGHNCJN3-GWmj_sPt5xo15T5TFOaOM_c</kml>
+        </etapa>
+
+    </viaje>
+</viajes>

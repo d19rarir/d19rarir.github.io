@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    
+<!-- Elementos simples -->
+    <xs:element name="ciudad_salida" type="xs:string"/> 
+    <xs:element name="ciudad_llegada" type="xs:string"/>
+    <xs:element name="transporte" type="xs:string"/>
+    <xs:element name="precio" type="xs:positiveInteger"/>
+    <xs:element name="anecdota" type="xs:string"/>
+    <xs:element name="descripcion" type="xs:string"/>
+    <xs:element name="foto" type="xs:string"/>
+    <xs:element name="kml" type="xs:string"/>
+
+<!-- Atributos -->
+    <xs:attribute name="num" type="xs:positiveInteger"/>
+    <xs:attribute name="fecha">
+        <xs:simpleType>
+            <xs:restriction base="xs:string">
+                <xs:pattern value="\d{2}\/\d{2}\/\d{4}"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:attribute>
+
+<!-- Elementos complejos -->
+
+    <xs:element name="viajes">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="viaje" minOccurs="1"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="viaje">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="etapa" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>   
+    </xs:element>
+
+    <xs:element name="etapa" >
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ciudad_salida"/>
+                <xs:element ref="ciudad_llegada"/> 
+                <xs:element ref="transporte"/> 
+                <xs:element ref="precio"/> 
+                <xs:element ref="anecdota"/> 
+                <xs:element ref="descripcion"/> 
+                <xs:element ref="foto"/> 
+                <xs:element ref="kml"/> 
+            </xs:sequence>
+            <xs:attribute ref="num" use="required"/>
+            <xs:attribute ref="fecha" use="required"/>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
