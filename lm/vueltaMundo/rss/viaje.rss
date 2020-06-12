@@ -14,5 +14,10 @@
                 <link>https://rubramriv73.github.io/d19rarir.github.io/lm/vueltaMundo/viaje.xml#2</link>
                 <description>Aqui se muestra la segunda etapa del viaje y los lugares visitados durante nuestra estancia</description>
             </item>
+            <item>
+                <title>Etapa 3 / Sudáfrica - Zimbabwe</title>
+                <link>https://rubramriv73.github.io/d19rarir.github.io/lm/vueltaMundo/viaje.xml#3</link>
+                <description>Aqui se muestra la tercera etapa del viaje y nuestra experiencia en las cataratas Victoria</description>
+            </item>
     </channel>
 </rss>

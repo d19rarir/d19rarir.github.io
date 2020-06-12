@@ -36,7 +36,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
             <ciudad_salida>Madrid</ciudad_salida>
             <ciudad_llegada>Sudáfrica</ciudad_llegada>
             <transporte>Avión</transporte>
-            <precio>22</precio>
+            <precio>200</precio>
             <anecdota>Visitar SoccerCity y revivir cuando fuimos campeones del mundo</anecdota>
             <descripcion>
                 Salimos desde el aeropuerto de Barajas a las 7:00 de la mañana con mucho sueño por la hora 
@@ -68,8 +68,8 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
                 las Cataratas. Sinceramente, la experiencia fue unica. Las vistas, la naturaleza, todo era perfecto.
                 Sin duda alguna fue lo mejor que pudimos hacer durante nuestra estancia en África.
             </descripcion>
-            <foto></foto>
-            <kml></kml>
+            <foto>./img/Zimbabwe.jpg</foto>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=1EaiDAC6FKDxi6D_1DDBo1sk_yhTZ29Oi</kml>
         </etapa>
         
         <!-- Etapa 4 -->
@@ -77,108 +77,116 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
             <ciudad_salida>Sudafrica</ciudad_salida>
             <ciudad_llegada>Dubai</ciudad_llegada>
             <transporte>Avión</transporte>
-            <precio>2</precio>
+            <precio>300</precio>
             <anecdota>Hacer Paracaidismo La Mejor Locura de Dubai</anecdota>
             <descripcion>
-
+                Sudáfrica fue increible pero tocaba volar a Dubai. Ciudad lujosa donde las haya, una pasada ver tanto 
+                lujo y el diseño tan moderno de la ciudad. Rascacielos, casinos, espectaculos de todo para entretener
+                el turismo, incluso tuve el placer de conducir algún coche de alta gama en el circuito de Motor City.
+                Por último, tuve una de las mejores y más espectacular de las experiencias de mi vida, Paracaidismo en
+                Palma Jebel Ali.
             </descripcion>
-            <foto></foto>
-            <kml></kml>
+            <foto>./img/Dubai.jpg</foto>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=19iPyvKOwgohpWpe0TtfwSCnLqTIbsA2E</kml>
         </etapa>
       
         <!-- Etapa 5 -->
-        <etapa num="5" fecha="22/03/2021">
+        <etapa num="5" fecha="16/03/2021">
             <ciudad_salida>Dubai</ciudad_salida>
             <ciudad_llegada>Nueva Zelanda</ciudad_llegada>
             <transporte>Avión</transporte>
-            <precio>2</precio>
+            <precio>500</precio>
             <anecdota>Presenciar una HAKA da miedo</anecdota>
             <descripcion>
-
+                Tras la experiencia lujosa de Dubai, nuestro viaje los llevaba a Nueva Zelanda. Alli pudimos disfrutar de
+                su naturaleza y de sus tradiciones. Sitios como la Bahía de las Islas o el crucero que te muestra las Rocas Delfín 
+                nos ayudaron a que la experiencia fuera super tranquila. Otra experiencia increible la vivimos en el tour Taiamai, 
+                en el cual nos daban a conocer las tradiciones Maories asi como vivir en persona la danza de la Haka, en shock despues
+                de vivirla es increible.
             </descripcion>
-            <foto></foto>
+            <foto>./img/NuevaZelanda.jpg</foto>
             <kml></kml>
         </etapa>
 
         <!-- Etapa 6 -->
-        <etapa num="6" fecha="31/03/2021">
+        <etapa num="6" fecha="19/03/2021">
             <ciudad_salida>Nueva Zelanda</ciudad_salida>
             <ciudad_llegada>Los Angeles</ciudad_llegada>
             <transporte>Avión</transporte>
-            <precio>2</precio>
-            <anecdota>Staples Center y GTA</anecdota>
+            <precio>300</precio>
+            <anecdota>Staples Center, Pura Magia </anecdota>
             <descripcion>
 
             </descripcion>
-            <foto></foto>
+            <foto>./img/LA.jpg</foto>
             <kml></kml>
         </etapa>
         
         <!-- Etapa 7 -->
-        <etapa num="7" fecha="03/04/2021">
+        <etapa num="7" fecha="22/03/2021">
             <ciudad_salida>Los Angeles</ciudad_salida>
             <ciudad_llegada>Peru</ciudad_llegada>
             <transporte>Avión</transporte>
-            <precio>2</precio>
-            <anecdota>MachuPichu</anecdota>
+            <precio>250</precio>
+            <anecdota>Machu Picchu, increible las cosas que puede hacer el ser humano</anecdota>
             <descripcion>
 
             </descripcion>
-            <foto></foto>
+            <foto>./img/Peru.jpg</foto>
             <kml></kml>
         </etapa>
         
         <!-- Etapa 8 -->
-        <etapa num="8" fecha="09/04/2021">
+        <etapa num="8" fecha="25/03/2021">
             <ciudad_salida>Peru</ciudad_salida>
             <ciudad_llegada>Noruega</ciudad_llegada>
             <transporte>Avión</transporte>
-            <precio>2</precio>
-            <anecdota>Fiordos</anecdota>
+            <precio>600</precio>
+            <anecdota>Belleza natural experiencia unica</anecdota>
             <descripcion>
 
             </descripcion>
-            <foto></foto>
+            <foto>./img/Noruega.jpg</foto>
             <kml></kml>
         </etapa>
         
         <!-- Etapa 9 -->
-        <etapa num="9" fecha="14/04/2021">
+        <etapa num="9" fecha="28/03/2021">
             <ciudad_salida>Noruega</ciudad_salida>
             <ciudad_llegada>Londres</ciudad_llegada>
             <transporte>Avión</transporte>
-            <precio>2</precio>
-            <anecdota>El puente</anecdota>
+            <precio>300</precio>
+            <anecdota>Mi movil quería bañarese en el Támesis pero lo evite menos mal</anecdota>
             <descripcion>
 
             </descripcion>
-            <foto></foto>
+            <foto>./img/Londres.jpg</foto>
             <kml></kml>
         </etapa>
         
         <!-- Etapa 10 -->
-        <etapa num="10" fecha="17/04/2021">
+        <etapa num="10" fecha="01/04/2021">
             <ciudad_salida>Londres</ciudad_salida>
             <ciudad_llegada>Barcelona</ciudad_llegada>
             <transporte>Avión</transporte>
-            <precio>2</precio>
+            <precio>170</precio>
             <anecdota>Camp Nou y Monumentos</anecdota>
             <descripcion>
 
             </descripcion>
-            <foto></foto>
+            <foto>./img/Barcelona.jpg</foto>
             <kml></kml>
         </etapa>
         
         <!-- Etapa 11 -->
-        <etapa num="11" fecha="19/04/2021">
+        <etapa num="11" fecha="05/04/2021">
             <ciudad_salida>Barcelona</ciudad_salida>
             <ciudad_llegada>Cordoba</ciudad_llegada>
             <transporte>AVE</transporte>
-            <precio>2</precio>
+            <precio>70</precio>
             <anecdota>Calor xD</anecdota>
             <descripcion></descripcion>
-            <foto></foto>
+            <foto>./img/Cordoba.png</foto>
             <kml></kml>
         </etapa>
         
