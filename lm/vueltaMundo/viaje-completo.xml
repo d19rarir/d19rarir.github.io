@@ -31,106 +31,137 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
         </etapa>
 
         <!-- Etapa 2 -->
-        <etapa num="2" fecha="07/03/2021"> 
+        <etapa num="2" fecha="08/03/2021"> 
             <ciudad_salida>Madrid</ciudad_salida>
             <ciudad_llegada>Sudáfrica</ciudad_llegada>
             <transporte>Avión</transporte>
             <precio>22</precio>
             <anecdota>Visitar SoccerCity y revivir cuando fuimos campeones del mundo</anecdota>
-            <descripcion></descripcion>
+            <descripcion>
+                Salimos desde el aeropuerto de Barajas a las 7:00 de la mañana con mucho sueño por la hora 
+                que era pero con muchas ganas de comenzar por fin nuestro viaje. Al llegar a Johannesburgo
+                nos encontramos con James, nuestro guía en las visitas que realizariamos en Sudáfrica.
+                El primer dia fuimos a ver el Museo de Apartheid y la casa de Nelson Mandela, dos puntos 
+                muy importantes en esta gran ciudad que en el pasado tanto peleo por erradicar el racismo.
+                Al dia siguiente vimos la ciudad en si, tanto la zona rica con todos sus rascacielos como
+                la zona más pobre de la ciudad.
+                Tambien hicimos una parada por SoccerCity, el estadio en el que se jugó la Final del Mundo
+                de fútbol en la cual España salió victoriosa con el famoso gol de Andres Iniesta.
+            </descripcion>
             <foto>./img/Sudáfrica.jpg</foto>
         </etapa>
 
         <!-- Etapa 3 -->
-        <etapa num="3" fecha="07/03/2021">
+        <etapa num="3" fecha="11/03/2021">
             <ciudad_salida>Sudafrica</ciudad_salida>
             <ciudad_llegada>Zimbabwe</ciudad_llegada>
-            <transporte></transporte>
-            <precio>2</precio>
-            <anecdota>Cataratas Victoria</anecdota>
-            <descripcion></descripcion>
+            <transporte>Avión</transporte>
+            <precio>50</precio>
+            <anecdota>Cataratas Victoria... ¿Existe algo más bonito?</anecdota>
+            <descripcion>
+                Un amigo nuestro nos recomendo que en nuestro paso por Sudáfrica hicieramos una parada por la 
+                frontera entre Zambia y Zimbabwe para ver las Cataratas Victoria. Gracias a James conseguimos 
+                un vuelo bastante barato de ida y vuelta a Zimbabwe ya que al dia siguiente salia nuestro vuelo
+                a Dubai. Al llegar nos esperaba un amigo de James quien nos llevaría al Parque Nacional para ver
+                las Cataratas. Sinceramente, la experiencia fue unica. Las vistas, la naturaleza, todo era perfecto.
+                Sin duda alguna fue lo mejor que pudimos hacer durante nuestra estancia en África.
+            </descripcion>
             <foto></foto>
         </etapa>
         
         <!-- Etapa 4 -->
-        <etapa num="4" fecha="07/03/2021">
+        <etapa num="4" fecha="13/03/2021">
             <ciudad_salida>Sudafrica</ciudad_salida>
             <ciudad_llegada>Dubai</ciudad_llegada>
             <transporte>Avión</transporte>
             <precio>2</precio>
-            <anecdota>Paracaidismo Palmeras</anecdota>
-            <descripcion></descripcion>
+            <anecdota>Hacer Paracaidismo La Mejor Locura de Dubai</anecdota>
+            <descripcion>
+
+            </descripcion>
             <foto></foto>
         </etapa>
       
         <!-- Etapa 5 -->
-        <etapa num="5" fecha="07/03/2021">
+        <etapa num="5" fecha="22/03/2021">
             <ciudad_salida>Dubai</ciudad_salida>
             <ciudad_llegada>Nueva Zelanda</ciudad_llegada>
             <transporte>Avión</transporte>
             <precio>2</precio>
-            <anecdota></anecdota>
-            <descripcion></descripcion>
+            <anecdota>Presenciar una HAKA da miedo</anecdota>
+            <descripcion>
+
+            </descripcion>
             <foto></foto>
         </etapa>
 
         <!-- Etapa 6 -->
-        <etapa num="6" fecha="07/03/2021">
+        <etapa num="6" fecha="31/03/2021">
             <ciudad_salida>Nueva Zelanda</ciudad_salida>
             <ciudad_llegada>Los Angeles</ciudad_llegada>
             <transporte>Avión</transporte>
             <precio>2</precio>
             <anecdota>Staples Center y GTA</anecdota>
-            <descripcion></descripcion>
+            <descripcion>
+
+            </descripcion>
             <foto></foto>
         </etapa>
         
         <!-- Etapa 7 -->
-        <etapa num="7" fecha="07/03/2021">
+        <etapa num="7" fecha="03/04/2021">
             <ciudad_salida>Los Angeles</ciudad_salida>
             <ciudad_llegada>Peru</ciudad_llegada>
             <transporte>Avión</transporte>
             <precio>2</precio>
             <anecdota>MachuPichu</anecdota>
-            <descripcion></descripcion>
+            <descripcion>
+
+            </descripcion>
             <foto></foto>
         </etapa>
         
         <!-- Etapa 8 -->
-        <etapa num="8" fecha="07/03/2021">
+        <etapa num="8" fecha="09/04/2021">
             <ciudad_salida>Peru</ciudad_salida>
             <ciudad_llegada>Noruega</ciudad_llegada>
             <transporte>Avión</transporte>
             <precio>2</precio>
             <anecdota>Fiordos</anecdota>
-            <descripcion></descripcion>
+            <descripcion>
+
+            </descripcion>
             <foto></foto>
         </etapa>
         
         <!-- Etapa 9 -->
-        <etapa num="9" fecha="07/03/2021">
+        <etapa num="9" fecha="14/04/2021">
             <ciudad_salida>Noruega</ciudad_salida>
             <ciudad_llegada>Londres</ciudad_llegada>
             <transporte>Avión</transporte>
             <precio>2</precio>
             <anecdota>El puente</anecdota>
-            <descripcion></descripcion>
+            <descripcion>
+
+            </descripcion>
             <foto></foto>
         </etapa>
         
         <!-- Etapa 10 -->
-        <etapa num="10" fecha="07/03/2021">
+        <etapa num="10" fecha="17/04/2021">
             <ciudad_salida>Londres</ciudad_salida>
             <ciudad_llegada>Barcelona</ciudad_llegada>
             <transporte>Avión</transporte>
             <precio>2</precio>
             <anecdota>Camp Nou y Monumentos</anecdota>
-            <descripcion></descripcion>
+            <descripcion>
+
+            </descripcion>
             <foto></foto>
         </etapa>
         
         <!-- Etapa 11 -->
-        <etapa num="11" fecha="07/03/2021">
+        <etapa num="11" fecha="19/04/2021">
             <ciudad_salida>Barcelona</ciudad_salida>
             <ciudad_llegada>Cordoba</ciudad_llegada>
             <transporte>AVE</transporte>

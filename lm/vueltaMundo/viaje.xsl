@@ -100,7 +100,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     </xsl:for-each>
                 </div>
                     <nav class="navbar sticky-bottom justify-content-center navbar-expand-md bg-dark navbar-dark">
-                        <a class="navbar-item" href="./rss/viaje.rss" target="_blank">
+                        <a class="navbar-item" type="application/rss+xml" href="./rss/viaje.rss" target="_blank">
                             <img src="./img/rss.png" width="30" height="30" alt="RSS" title="RSS"/>
                         </a>
                         <a class="navbar-item" href="https://twitter.com/rubensiio7" target="_blank">
