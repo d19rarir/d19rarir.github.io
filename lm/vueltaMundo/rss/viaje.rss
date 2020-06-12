@@ -9,5 +9,10 @@
                 <link>https://rubramriv73.github.io/d19rarir.github.io/lm/vueltaMundo/viaje.xml#1</link>
                 <description>Aqui se muestra la primera etapa del viaje</description>
             </item>
+            <item>
+                <title>Etapa 2 / Madrid - Sudáfrica</title>
+                <link>https://rubramriv73.github.io/d19rarir.github.io/lm/vueltaMundo/viaje.xml#2</link>
+                <description>Aqui se muestra la segunda etapa del viaje y los lugares visitados durante nuestra estancia</description>
+            </item>
     </channel>
 </rss>
