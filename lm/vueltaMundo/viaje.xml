@@ -31,5 +31,27 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
             <kml>https://www.google.com/maps/d/u/0/embed?mid=1oGHNCJN3-GWmj_sPt5xo15T5TFOaOM_c</kml>
         </etapa>
 
+        <!-- Etapa 2 -->
+        <etapa num="2" fecha="08/03/2021"> 
+            <ciudad_salida>Madrid</ciudad_salida>
+            <ciudad_llegada>Sudáfrica</ciudad_llegada>
+            <transporte>Avión</transporte>
+            <precio>22</precio>
+            <anecdota>Visitar SoccerCity y revivir cuando fuimos campeones del mundo</anecdota>
+            <descripcion>
+                Salimos desde el aeropuerto de Barajas a las 7:00 de la mañana con mucho sueño por la hora 
+                que era pero con muchas ganas de comenzar por fin nuestro viaje. Al llegar a Johannesburgo
+                nos encontramos con James, nuestro guía en las visitas que realizariamos en Sudáfrica.
+                El primer dia fuimos a ver el Museo de Apartheid y la casa de Nelson Mandela, dos puntos 
+                muy importantes en esta gran ciudad que en el pasado tanto peleo por erradicar el racismo.
+                Al dia siguiente vimos la ciudad en si, tanto la zona rica con todos sus rascacielos como
+                la zona más pobre de la ciudad.
+                Tambien hicimos una parada por SoccerCity, el estadio en el que se jugó la Final del Mundo
+                de fútbol en la cual España salió victoriosa con el famoso gol de Andres Iniesta.
+            </descripcion>
+            <foto>./img/Sudáfrica.jpg</foto>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=1kOBd0ZfnTlmG7ApkcPc5uMWB4dQORVt6</kml>
+        </etapa>
+
     </viaje>
 </viajes>
