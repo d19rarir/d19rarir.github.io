@@ -4,10 +4,10 @@
         <title>El viaje alrededor del mundo de Rubén</title>
         <link>https://rubramriv73.github.io/d19rarir.github.io/lm/vueltaMundo/viaje.xml</link>
         <description>Blog digital de mi viaje alrededor del mundo</description>
-        <item>
-            <title>Etapa 1 / Córdoba - Madrid</title>
-            <link>https://rubramriv73.github.io/d19rarir.github.io/lm/vueltaMundo/viaje.xml#1</link>
-            <description>Aqui se muestra la primera etapa del viaje</description>
-        </item>
+            <item>
+                <title>Etapa 1 / Córdoba - Madrid</title>
+                <link>https://rubramriv73.github.io/d19rarir.github.io/lm/vueltaMundo/viaje.xml#1</link>
+                <description>Aqui se muestra la primera etapa del viaje</description>
+            </item>
     </channel>
 </rss>

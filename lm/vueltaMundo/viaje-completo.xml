@@ -28,6 +28,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
                 mucho más porque al día siguiente nuestro vuelo a Sudáfrica salía temprano. Tocaba descansar. 
             </descripcion>
             <foto>./img/Madrid.jpg</foto>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=1oGHNCJN3-GWmj_sPt5xo15T5TFOaOM_c</kml>
         </etapa>
 
         <!-- Etapa 2 -->
@@ -49,6 +50,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
                 de fútbol en la cual España salió victoriosa con el famoso gol de Andres Iniesta.
             </descripcion>
             <foto>./img/Sudáfrica.jpg</foto>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=1kOBd0ZfnTlmG7ApkcPc5uMWB4dQORVt6</kml>
         </etapa>
 
         <!-- Etapa 3 -->
@@ -67,6 +69,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
                 Sin duda alguna fue lo mejor que pudimos hacer durante nuestra estancia en África.
             </descripcion>
             <foto></foto>
+            <kml></kml>
         </etapa>
         
         <!-- Etapa 4 -->
@@ -80,6 +83,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
 
             </descripcion>
             <foto></foto>
+            <kml></kml>
         </etapa>
       
         <!-- Etapa 5 -->
@@ -93,6 +97,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
 
             </descripcion>
             <foto></foto>
+            <kml></kml>
         </etapa>
 
         <!-- Etapa 6 -->
@@ -106,6 +111,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
 
             </descripcion>
             <foto></foto>
+            <kml></kml>
         </etapa>
         
         <!-- Etapa 7 -->
@@ -119,6 +125,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
 
             </descripcion>
             <foto></foto>
+            <kml></kml>
         </etapa>
         
         <!-- Etapa 8 -->
@@ -132,6 +139,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
 
             </descripcion>
             <foto></foto>
+            <kml></kml>
         </etapa>
         
         <!-- Etapa 9 -->
@@ -145,6 +153,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
 
             </descripcion>
             <foto></foto>
+            <kml></kml>
         </etapa>
         
         <!-- Etapa 10 -->
@@ -158,6 +167,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
 
             </descripcion>
             <foto></foto>
+            <kml></kml>
         </etapa>
         
         <!-- Etapa 11 -->
@@ -169,6 +179,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
             <anecdota>Calor xD</anecdota>
             <descripcion></descripcion>
             <foto></foto>
+            <kml></kml>
         </etapa>
         
     </viaje>
