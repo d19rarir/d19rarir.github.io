@@ -105,7 +105,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
                 de vivirla es increible.
             </descripcion>
             <foto>./img/NuevaZelanda.jpg</foto>
-            <kml></kml>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=1gQlWtmqtYFH45xFvW4WLm6chbZ09vKyc</kml>
         </etapa>
 
         <!-- Etapa 6 -->
