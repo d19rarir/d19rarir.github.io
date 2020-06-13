@@ -126,5 +126,23 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
             <kml>https://www.google.com/maps/d/u/0/embed?mid=1g4geEOGvF-daCVcT2tMxrnXZBmWVWPWS</kml>
         </etapa>
 
+        <!-- Etapa 7 -->
+        <etapa num="7" fecha="22/03/2021">
+            <ciudad_salida>Japón</ciudad_salida>
+            <ciudad_llegada>Los Angeles</ciudad_llegada>
+            <transporte>Avión</transporte>
+            <precio>300</precio>
+            <anecdota>Staples Center, Pura Magia </anecdota>
+            <descripcion>
+                Los Angeles, LA, ciudad que visitaba por primera vez pero parecia que ya habia estado alli antes. Dicen que los videojuegos
+                no enseñan, pues yo me conocia de punta a punta la ciudad gracias al GTA V. Una vez en LA, fuimos a visitar Beverly Hills
+                parece que Dubai no nos bastaba para seguir viendo lujos. También estuvimos en el observatorio Griffith donde guardamos las
+                mejores imagenes de la ciudad. Para terminar estuvimos paseando por el Muella y la playa de Santa Mónica y cumpliendo un sueño
+                de niño que como amante del baloncesto era visitar el Staples Center. 
+            </descripcion>
+            <foto>./img/LA.jpg</foto>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=1S-PchMyxb2Jx0fr3l2FrcnYeyW7EYaho</kml>
+        </etapa>
+
     </viaje>
 </viajes>

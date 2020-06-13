@@ -141,7 +141,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
                 de niño que como amante del baloncesto era visitar el Staples Center. 
             </descripcion>
             <foto>./img/LA.jpg</foto>
-            <kml></kml>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=1S-PchMyxb2Jx0fr3l2FrcnYeyW7EYaho</kml>
         </etapa>
         
         <!-- Etapa 8 -->
@@ -158,7 +158,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
                 ciudad en medio de los Andes.
             </descripcion>
             <foto>./img/Peru.jpg</foto>
-            <kml></kml>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=1Tqq5INpolqvrpcpAgFCGr0oBRR5TkGNz</kml>
         </etapa>
         
         <!-- Etapa 9 -->
@@ -176,7 +176,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
                 sin ayuda de experiencias asi no podriamos sacar.
             </descripcion>
             <foto>./img/Noruega.jpg</foto>
-            <kml></kml>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=19FCVl0cr4BvuplFAWWuSd_Fq7iTuBELp</kml>
         </etapa>
         
         <!-- Etapa 10 -->
@@ -210,7 +210,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
                 asi por mucho que las cuentes no es lo mismo si no lo vives. Y con este consejo terminamos la aventura. Ojala poder repetirla de nuevo.
             </descripcion>
             <foto>./img/Cordoba.png</foto>
-            <kml></kml>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=19ErwwGcSBgV4JgWrhOo1Tl3_hl43Htpq</kml>
         </etapa>
         
     </viaje>
