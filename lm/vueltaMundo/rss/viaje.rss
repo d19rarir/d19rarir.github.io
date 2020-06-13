@@ -39,5 +39,10 @@
                 <link>https://rubramriv73.github.io/d19rarir.github.io/lm/vueltaMundo/viaje.xml#7</link>
                 <description>Aqui se muestra la septima etapa del viaje</description>
             </item>
+            <item>
+                <title>Etapa 8 / Los Angeles - Peru</title>
+                <link>https://rubramriv73.github.io/d19rarir.github.io/lm/vueltaMundo/viaje.xml#8</link>
+                <description>Aqui se muestra la octava etapa del viaje</description>
+            </item>
     </channel>
 </rss>

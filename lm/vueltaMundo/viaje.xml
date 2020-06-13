@@ -144,5 +144,22 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
             <kml>https://www.google.com/maps/d/u/0/embed?mid=1S-PchMyxb2Jx0fr3l2FrcnYeyW7EYaho</kml>
         </etapa>
 
+        <!-- Etapa 8 -->
+        <etapa num="8" fecha="25/03/2021">
+            <ciudad_salida>Los Angeles</ciudad_salida>
+            <ciudad_llegada>Peru</ciudad_llegada>
+            <transporte>Avión</transporte>
+            <precio>250</precio>
+            <anecdota>Machu Picchu, increible las cosas que puede hacer el ser humano</anecdota>
+            <descripcion>
+                Tras Los Angeles, y antes de volver a Europa, quisimos hacer una parada por Peru y asi poder ver con nuestros propios ojos
+                lo que el ser humano es capaz o ha sido capaz de lograr sin la tecnología de la que disponemos ahora. Machu Picchu fue esa
+                la parada. Un lugar increible, lleno de naturaleza y lleno de historia de como el ser humano con sus propias manos creo una
+                ciudad en medio de los Andes.
+            </descripcion>
+            <foto>./img/Peru.jpg</foto>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=1Tqq5INpolqvrpcpAgFCGr0oBRR5TkGNz</kml>
+        </etapa>
+
     </viaje>
 </viajes>
