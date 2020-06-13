@@ -179,5 +179,23 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
             <kml>https://www.google.com/maps/d/u/0/embed?mid=19FCVl0cr4BvuplFAWWuSd_Fq7iTuBELp</kml>
         </etapa>
 
+        <!-- Etapa 10 -->
+        <etapa num="10" fecha="01/04/2021">
+            <ciudad_salida>Noruega</ciudad_salida>
+            <ciudad_llegada>Londres</ciudad_llegada>
+            <transporte>Avión</transporte>
+            <precio>300</precio>
+            <anecdota>Mi movil quería bañarese en el Támesis pero lo evite menos mal</anecdota>
+            <descripcion>
+                Ojala poder seguir en Trolltunga pero teniamos que seguir el viaje, el cual se acercaba el final. Londres nos esperaba, primera 
+                parada: Big Ben. Aunque Londres es un lugar tan conocido que hablar de el sería raro todo el mundo sabe como es. Tras el Big Ben
+                un tour por la ciudad, vimos el London Eye, el palacio de Buckingham donde nos hicimos una foto con la guardia real y por último
+                paseamos por el Tower Bridge. El dia antes de volver a casa pasamos el dia con unos amigos que viven alli haciendo un picnic en 
+                Hyde Park a modo de despedida tranquila a esta experiencia tan increible.
+            </descripcion>
+            <foto>./img/Londres.jpg</foto>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=1U28DfGYrzxS92ez3JmkK2GsRlO8PqsuY</kml>
+        </etapa>
+
     </viaje>
 </viajes>
