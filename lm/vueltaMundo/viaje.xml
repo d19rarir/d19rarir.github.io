@@ -197,5 +197,21 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
             <kml>https://www.google.com/maps/d/u/0/embed?mid=1U28DfGYrzxS92ez3JmkK2GsRlO8PqsuY</kml>
         </etapa>
 
+        <!-- Etapa 11 -->
+        <etapa num="11" fecha="05/04/2021">
+            <ciudad_salida>Londres</ciudad_salida>
+            <ciudad_llegada>Cordoba</ciudad_llegada>
+            <transporte>Avión</transporte>
+            <precio>170</precio>
+            <anecdota>Vuelta a casa con las pilas cargadas de experiencias</anecdota>
+            <descripcion>
+                Tras este mes fuera de casa viajando conociendo sitios nuevos llegaba la hora de volver a casa, a seguir con la rutina y a contar
+                a todos nuestros conocidos la experiencia recien vivida y la cual aconsejabamos guardar un momento en la vida para vivirlo. Experiencias
+                asi por mucho que las cuentes no es lo mismo si no lo vives. Y con este consejo terminamos la aventura. Ojala poder repetirla de nuevo.
+            </descripcion>
+            <foto>./img/Cordoba.png</foto>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=19ErwwGcSBgV4JgWrhOo1Tl3_hl43Htpq</kml>
+        </etapa>
+
     </viaje>
 </viajes>
