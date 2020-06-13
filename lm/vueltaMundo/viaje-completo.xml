@@ -111,81 +111,104 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
         <!-- Etapa 6 -->
         <etapa num="6" fecha="19/03/2021">
             <ciudad_salida>Nueva Zelanda</ciudad_salida>
+            <ciudad_llegada>Japón</ciudad_llegada>
+            <transporte>Avión</transporte>
+            <precio>200</precio>
+            <anecdota>Creo que he engordado de tanta comida japonesa</anecdota>
+            <descripcion>
+                El siguiente lugar al que iriamos seria a Japón, donde hariamos una primera parada por Kyoto para ir a comer una receta
+                famosa japonesa, Omurice en el restaurante Kichi Kichi. Despues fuimos a Tokyo para pasera por Shibuya cosa que me recordo
+                a la pelicula de Fast and Furious: Tokyo Drift. También fuimos a Akihabara, "El barrio friki", para ver cosas de anime,
+                videojuegos, cosas frikis. Por último antes de seguir con el siguiente viaje de nuestra aventura vimos las vistas de Tokyo
+                el Tokyo Skytree, un rascacielos espectacular desde donde se veia perfectamente toda Tokyo.
+            </descripcion>
+            <foto>./img/Japon.jpg</foto>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=1g4geEOGvF-daCVcT2tMxrnXZBmWVWPWS</kml>
+        </etapa>
+
+        <!-- Etapa 7 -->
+        <etapa num="7" fecha="22/03/2021">
+            <ciudad_salida>Japón</ciudad_salida>
             <ciudad_llegada>Los Angeles</ciudad_llegada>
             <transporte>Avión</transporte>
             <precio>300</precio>
             <anecdota>Staples Center, Pura Magia </anecdota>
             <descripcion>
-
+                Los Angeles, LA, ciudad que visitaba por primera vez pero parecia que ya habia estado alli antes. Dicen que los videojuegos
+                no enseñan, pues yo me conocia de punta a punta la ciudad gracias al GTA V. Una vez en LA, fuimos a visitar Beverly Hills
+                parece que Dubai no nos bastaba para seguir viendo lujos. También estuvimos en el observatorio Griffith donde guardamos las
+                mejores imagenes de la ciudad. Para terminar estuvimos paseando por el Muella y la playa de Santa Mónica y cumpliendo un sueño
+                de niño que como amante del baloncesto era visitar el Staples Center. 
             </descripcion>
             <foto>./img/LA.jpg</foto>
             <kml></kml>
         </etapa>
         
-        <!-- Etapa 7 -->
-        <etapa num="7" fecha="22/03/2021">
+        <!-- Etapa 8 -->
+        <etapa num="8" fecha="25/03/2021">
             <ciudad_salida>Los Angeles</ciudad_salida>
             <ciudad_llegada>Peru</ciudad_llegada>
             <transporte>Avión</transporte>
             <precio>250</precio>
             <anecdota>Machu Picchu, increible las cosas que puede hacer el ser humano</anecdota>
             <descripcion>
-
+                Tras Los Angeles, y antes de volver a Europa, quisimos hacer una parada por Peru y asi poder ver con nuestros propios ojos
+                lo que el ser humano es capaz o ha sido capaz de lograr sin la tecnología de la que disponemos ahora. Machu Picchu fue esa
+                la parada. Un lugar increible, lleno de naturaleza y lleno de historia de como el ser humano con sus propias manos creo una
+                ciudad en medio de los Andes.
             </descripcion>
             <foto>./img/Peru.jpg</foto>
             <kml></kml>
         </etapa>
         
-        <!-- Etapa 8 -->
-        <etapa num="8" fecha="25/03/2021">
+        <!-- Etapa 9 -->
+        <etapa num="9" fecha="28/03/2021">
             <ciudad_salida>Peru</ciudad_salida>
             <ciudad_llegada>Noruega</ciudad_llegada>
             <transporte>Avión</transporte>
             <precio>600</precio>
             <anecdota>Belleza natural experiencia unica</anecdota>
             <descripcion>
-
+                De vuelta a Europa visitamos Noruega, ojala hubieramos tenido más tiempo de viajar por todo el pais. En nuestro camino a visitar
+                Trolltunga, pasamos por el pueblo de Bryggen. Un pueblo precioso lleno de casitas de madera todas con la misma fachada pero
+                pintadas de formas muy coloridas, junto a un muelle que aportaba mucha tranquilidad. Despues de Bryggen fuimos a TrollTunga.
+                ¿Qué decir de ese lugar? Paz, tranquilidad, belleza natural. Un lugar para poder estar con una parte que todos tenemos pero que
+                sin ayuda de experiencias asi no podriamos sacar.
             </descripcion>
             <foto>./img/Noruega.jpg</foto>
             <kml></kml>
         </etapa>
         
-        <!-- Etapa 9 -->
-        <etapa num="9" fecha="28/03/2021">
+        <!-- Etapa 10 -->
+        <etapa num="10" fecha="01/04/2021">
             <ciudad_salida>Noruega</ciudad_salida>
             <ciudad_llegada>Londres</ciudad_llegada>
             <transporte>Avión</transporte>
             <precio>300</precio>
             <anecdota>Mi movil quería bañarese en el Támesis pero lo evite menos mal</anecdota>
             <descripcion>
-
+                Ojala poder seguir en Trolltunga pero teniamos que seguir el viaje, el cual se acercaba el final. Londres nos esperaba, primera 
+                parada: Big Ben. Aunque Londres es un lugar tan conocido que hablar de el sería raro todo el mundo sabe como es. Tras el Big Ben
+                un tour por la ciudad, vimos el London Eye, el palacio de Buckingham donde nos hicimos una foto con la guardia real y por último
+                paseamos por el Tower Bridge. El dia antes de volver a casa pasamos el dia con unos amigos que viven alli haciendo un picnic en 
+                Hyde Park a modo de despedida tranquila a esta experiencia tan increible.
             </descripcion>
             <foto>./img/Londres.jpg</foto>
             <kml></kml>
         </etapa>
         
-        <!-- Etapa 10 -->
-        <etapa num="10" fecha="01/04/2021">
-            <ciudad_salida>Londres</ciudad_salida>
-            <ciudad_llegada>Barcelona</ciudad_llegada>
-            <transporte>Avión</transporte>
-            <precio>170</precio>
-            <anecdota>Camp Nou y Monumentos</anecdota>
-            <descripcion>
-
-            </descripcion>
-            <foto>./img/Barcelona.jpg</foto>
-            <kml></kml>
-        </etapa>
-        
         <!-- Etapa 11 -->
         <etapa num="11" fecha="05/04/2021">
-            <ciudad_salida>Barcelona</ciudad_salida>
+            <ciudad_salida>Londres</ciudad_salida>
             <ciudad_llegada>Cordoba</ciudad_llegada>
-            <transporte>AVE</transporte>
-            <precio>70</precio>
-            <anecdota>Calor xD</anecdota>
-            <descripcion></descripcion>
+            <transporte>Avión</transporte>
+            <precio>170</precio>
+            <anecdota>Vuelta a casa con las pilas cargadas de experiencias</anecdota>
+            <descripcion>
+                Tras este mes fuera de casa viajando conociendo sitios nuevos llegaba la hora de volver a casa, a seguir con la rutina y a contar
+                a todos nuestros conocidos la experiencia recien vivida y la cual aconsejabamos guardar un momento en la vida para vivirlo. Experiencias
+                asi por mucho que las cuentes no es lo mismo si no lo vives. Y con este consejo terminamos la aventura. Ojala poder repetirla de nuevo.
+            </descripcion>
             <foto>./img/Cordoba.png</foto>
             <kml></kml>
         </etapa>

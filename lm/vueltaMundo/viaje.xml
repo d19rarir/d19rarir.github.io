@@ -90,5 +90,41 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
             <kml>https://www.google.com/maps/d/u/0/embed?mid=19iPyvKOwgohpWpe0TtfwSCnLqTIbsA2E</kml>
         </etapa>
 
+        <!-- Etapa 5 -->
+        <etapa num="5" fecha="16/03/2021">
+            <ciudad_salida>Dubai</ciudad_salida>
+            <ciudad_llegada>Nueva Zelanda</ciudad_llegada>
+            <transporte>Avión</transporte>
+            <precio>500</precio>
+            <anecdota>Presenciar una HAKA da miedo</anecdota>
+            <descripcion>
+                Tras la experiencia lujosa de Dubai, nuestro viaje los llevaba a Nueva Zelanda. Alli pudimos disfrutar de
+                su naturaleza y de sus tradiciones. Sitios como la Bahía de las Islas o el crucero que te muestra las Rocas Delfín 
+                nos ayudaron a que la experiencia fuera super tranquila. Otra experiencia increible la vivimos en el tour Taiamai, 
+                en el cual nos daban a conocer las tradiciones Maories asi como vivir en persona la danza de la Haka, en shock despues
+                de vivirla es increible.
+            </descripcion>
+            <foto>./img/NuevaZelanda.jpg</foto>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=1gQlWtmqtYFH45xFvW4WLm6chbZ09vKyc</kml>
+        </etapa>
+
+        <!-- Etapa 6 -->
+        <etapa num="6" fecha="19/03/2021">
+            <ciudad_salida>Nueva Zelanda</ciudad_salida>
+            <ciudad_llegada>Japón</ciudad_llegada>
+            <transporte>Avión</transporte>
+            <precio>200</precio>
+            <anecdota>Creo que he engordado de tanta comida japonesa</anecdota>
+            <descripcion>
+                El siguiente lugar al que iriamos seria a Japón, donde hariamos una primera parada por Kyoto para ir a comer una receta
+                famosa japonesa, Omurice en el restaurante Kichi Kichi. Despues fuimos a Tokyo para pasera por Shibuya cosa que me recordo
+                a la pelicula de Fast and Furious: Tokyo Drift. También fuimos a Akihabara, "El barrio friki", para ver cosas de anime,
+                videojuegos, cosas frikis. Por último antes de seguir con el siguiente viaje de nuestra aventura vimos las vistas de Tokyo
+                el Tokyo Skytree, un rascacielos espectacular desde donde se veia perfectamente toda Tokyo.
+            </descripcion>
+            <foto>./img/Japon.jpg</foto>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=1g4geEOGvF-daCVcT2tMxrnXZBmWVWPWS</kml>
+        </etapa>
+
     </viaje>
 </viajes>
