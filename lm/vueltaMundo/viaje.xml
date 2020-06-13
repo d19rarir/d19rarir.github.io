@@ -160,6 +160,24 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
             <foto>./img/Peru.jpg</foto>
             <kml>https://www.google.com/maps/d/u/0/embed?mid=1Tqq5INpolqvrpcpAgFCGr0oBRR5TkGNz</kml>
         </etapa>
+        
+        <!-- Etapa 9 -->
+        <etapa num="9" fecha="28/03/2021">
+            <ciudad_salida>Peru</ciudad_salida>
+            <ciudad_llegada>Noruega</ciudad_llegada>
+            <transporte>Avión</transporte>
+            <precio>600</precio>
+            <anecdota>Belleza natural experiencia unica</anecdota>
+            <descripcion>
+                De vuelta a Europa visitamos Noruega, ojala hubieramos tenido más tiempo de viajar por todo el pais. En nuestro camino a visitar
+                Trolltunga, pasamos por el pueblo de Bryggen. Un pueblo precioso lleno de casitas de madera todas con la misma fachada pero
+                pintadas de formas muy coloridas, junto a un muelle que aportaba mucha tranquilidad. Despues de Bryggen fuimos a TrollTunga.
+                ¿Qué decir de ese lugar? Paz, tranquilidad, belleza natural. Un lugar para poder estar con una parte que todos tenemos pero que
+                sin ayuda de experiencias asi no podriamos sacar.
+            </descripcion>
+            <foto>./img/Noruega.jpg</foto>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=19FCVl0cr4BvuplFAWWuSd_Fq7iTuBELp</kml>
+        </etapa>
 
     </viaje>
 </viajes>

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Etapa 4</name>
+	<StyleMap id="__managed_style_06D1C8D28A13DEBF2728">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_12F145FB4E13DEBF2728</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_21ED701BE013DEBF2728</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2884E67B1413DEC236B3">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_21ED701BE013DEBF2728">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_12F145FB4E13DEBF2728">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_12328D920013DEC236B3">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_04253BB26D13DEC236B3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_12328D920013DEC236B3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2884E67B1413DEC236B3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0DFFCC119D13DEC6F068">
+		<name>Aeropuerto Johannesburgo</name>
+		<LookAt>
+			<longitude>28.23635655801292</longitude>
+			<latitude>-26.13296966814525</latitude>
+			<altitude>1684.755371531341</altitude>
+			<heading>-74.67400278884176</heading>
+			<tilt>44.66538471455936</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>927.0890480167875</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04253BB26D13DEC236B3</styleUrl>
+		<Point>
+			<coordinates>28.23415996190326,-26.13343713204137,1689.734143781363</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EC7A97EFF13DEC7B778">
+		<name>Vuelo a Dubai</name>
+		<LookAt>
+			<longitude>55.49238536188398</longitude>
+			<latitude>25.21574722060666</latitude>
+			<altitude>65.56041136384465</altitude>
+			<heading>10.56587900266881</heading>
+			<tilt>14.13818781906586</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>84618.77635376528</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04253BB26D13DEC236B3</styleUrl>
+		<LineString>
+			<coordinates>
+				28.23399363420766,-26.13295191085529,1687.276099597711 29.95666463625846,-23.92910280382887,-1586.741424481903 33.23705934233367,-18.63852874070136,1179.618193176211 34.19308825844176,-13.79606630070355,-1271.209527205316 36.21919999831148,-8.423319419442995,859.261798711938 40.72310267924217,-0.8938373742353105,21.3584294437397 42.76916059231689,4.173042408394907,1979.253030990596 43.97983543597523,8.032404384195837,2592.599259772345 48.86385955498886,15.49326090087044,1120.329833703216 54.38278329943748,22.69566397605135,530.1576774835596 55.09393634534364,24.17117567912779,182.9832474062391 55.36595627469225,25.25473333868765,18.65266095598222 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0DA9D7DB7E13DEBF2726">
+		<name>Aeropuerto Internacional de Dubái</name>
+		<gx:mid>/m/0147lg</gx:mid>
+		<gx:fid>0x3e5f5d0693260e69:0xe695d4007a48eee9</gx:fid>
+		<LookAt>
+			<longitude>55.36567280000001</longitude>
+			<latitude>25.2531745</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>944.6221437020544</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06D1C8D28A13DEBF2728</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>55.3656728,25.2531745,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A8790F55313DEC86A06">
+		<name>Camino a ver las carreras de camellos</name>
+		<LookAt>
+			<longitude>55.49705301114577</longitude>
+			<latitude>25.29667406264182</latitude>
+			<altitude>30.59492468611163</altitude>
+			<heading>10.59162380811864</heading>
+			<tilt>14.07182862214556</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>54020.35197663121</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04253BB26D13DEC236B3</styleUrl>
+		<LineString>
+			<coordinates>
+				55.37053460393332,25.25421785308791,25.7570930551579 55.39579555047395,25.29563103501216,10.93373183425919 55.42508041232455,25.33647241461679,29.11404143254182 55.45673445426772,25.37663320944177,-3.746806756654491 55.48212811910854,25.36013551600578,30.15521843105599 55.51686883071039,25.35937111713736,29.96623990013978 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0B4344AFD713DEC446E5">
+		<name>Carreras de camellos</name>
+		<gx:mid>/g/1tq4pkwy</gx:mid>
+		<gx:fid>0x3ef5f638ad4921b9:0x92d312a9a8f2befc</gx:fid>
+		<LookAt>
+			<longitude>55.5201146</longitude>
+			<latitude>25.3705266</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>943.6073223532982</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06D1C8D28A13DEBF2728</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>55.52011460000001,25.3705266,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D2E79EEB113DEC963E6">
+		<name>Camino a Motor City</name>
+		<LookAt>
+			<longitude>55.25816238458833</longitude>
+			<latitude>25.06652191753327</latitude>
+			<altitude>21.37501668850886</altitude>
+			<heading>10.54543588531256</heading>
+			<tilt>13.97852510141223</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>10998.33680047654</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04253BB26D13DEC236B3</styleUrl>
+		<LineString>
+			<coordinates>
+				55.51773421962575,25.36040009472969,29.98797711581746 55.48157384723982,25.35911408752992,30.16743468671581 55.4551096563176,25.37606188275877,-0.9502586140070379 55.39488066228656,25.29354092776557,11.78619132287709 55.42283998979141,25.2779684249468,25.57768193282506 55.40237166204638,25.21190923465462,13.19242757967312 55.36593689418133,25.12064018035839,14.23195515615531 55.28206730611076,25.05889602238827,3.888588361029588 55.23674405695954,25.05432431658302,21.37596560211761 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="01B578E2DE13DEC236B3">
+		<name>Circuito Motor City</name>
+		<LookAt>
+			<longitude>55.23750024283009</longitude>
+			<latitude>25.04975108364493</latitude>
+			<altitude>26.04579778087778</altitude>
+			<heading>-104.7926087663877</heading>
+			<tilt>0.3867220116910288</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4944.050432749792</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04253BB26D13DEC236B3</styleUrl>
+		<Point>
+			<coordinates>55.23706158110891,25.05014155318289,23.99994783118012</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06458A144613DECA3D67">
+		<name>Camino a hacer paracaidismo en el Palma Jebel Ali</name>
+		<LookAt>
+			<longitude>55.14063878009124</longitude>
+			<latitude>25.03846131076196</latitude>
+			<altitude>21.54876865846188</altitude>
+			<heading>10.46092721522362</heading>
+			<tilt>14.06035608926863</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>48730.32933281735</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04253BB26D13DEC236B3</styleUrl>
+		<LineString>
+			<coordinates>
+				55.23155119602758,25.05354810088011,31.34223483616764 55.16043168118503,25.01965120991092,30.07968778264803 55.09915590406567,25.0172658871095,5.573753294128434 55.06959322400641,24.94718952120871,18.79723351947524 55.04651263725145,24.9722365100306,5.460024240348467 55.019172960536,24.9850188281792,5.706247262811937 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0685C7133713DEC34F59">
+		<name>Paracaidismo </name>
+		<LookAt>
+			<longitude>55.00705065523552</longitude>
+			<latitude>24.99832600025149</latitude>
+			<altitude>1.601159635409348</altitude>
+			<heading>-88.51478320350125</heading>
+			<tilt>59.95391597548799</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>11162.09006294841</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04253BB26D13DEC236B3</styleUrl>
+		<Point>
+			<coordinates>55.0012265888593,24.99888672764144,1.592600697069404</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04B1DBE63C13DEC552A6">
+		<name>Fuente Burj Khalifa</name>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipPJiLMmH7kiGGTAEFgmIycMzR6qmEOAb3ytHKU</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>55.2739226000001</longitude>
+			<latitude>25.19489249999974</latitude>
+			<altitude>5.168461497221392</altitude>
+			<heading>84.71095905300005</heading>
+			<tilt>99.37469764159584</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_04253BB26D13DEC236B3</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>55.2739226000001,25.19489249999974,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BA26D46B313DEC5CEA0">
+		<name>Burj Khalifa</name>
+		<gx:mid>/m/03cn0v</gx:mid>
+		<gx:fid>0x3e5f43348a67e24b:0xff45e502e1ceb7e2</gx:fid>
+		<LookAt>
+			<longitude>55.27437639999999</longitude>
+			<latitude>25.197197</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>945.1047377184826</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06D1C8D28A13DEBF2728</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>55.27437639999999,25.197197,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EDCC41AF913DECBD4CB">
+		<name>Camino al Burj Khalifa</name>
+		<LookAt>
+			<longitude>55.23097699040831</longitude>
+			<latitude>25.10221368833232</latitude>
+			<altitude>-1.420865099810588</altitude>
+			<heading>10.4992664867759</heading>
+			<tilt>14.06040782203222</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>48754.00979337282</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04253BB26D13DEC236B3</styleUrl>
+		<LineString>
+			<coordinates>
+				55.02170569731003,24.98288884544057,5.646842556476885 55.04734436890585,24.97153340142167,5.482262632002149 55.06699399760355,24.94652230695383,18.60678800948705 55.09694818083167,25.01583761530036,5.557966692254739 55.14263598175351,25.07814605032583,5.526937074227685 55.24659417808757,25.17174833236305,11.44370018249763 55.26512146135983,25.19717282211951,5.381949931045725 55.27001081869885,25.20361544217016,5.4031412381504 55.27522133278155,25.19685636901011,5.524054022206347 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Etapa 11</name>
+	<gx:CascadingStyle kml:id="__managed_style_269B5DAC3D13E32A3F8E">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1AD2BD21F913E32A3F8E">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_00395D949813E32A3F8E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1AD2BD21F913E32A3F8E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_269B5DAC3D13E32A3F8E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2B1CE9235713E329883F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1798C3AD4813E329883F">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_099F05E78F13E329883F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1798C3AD4813E329883F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2B1CE9235713E329883F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0269C9FD2313E329883E">
+		<name>Aeropuerto Londres</name>
+		<LookAt>
+			<longitude>-0.454258372766948</longitude>
+			<latitude>51.47001117710564</latitude>
+			<altitude>29.43020131910664</altitude>
+			<heading>-64.31500889763709</heading>
+			<tilt>44.15940901008751</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>624.2985124127154</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_099F05E78F13E329883F</styleUrl>
+		<Point>
+			<coordinates>-0.4547255304261544,51.46829523545366,21.77574675314517</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D2F85DC2513E32AAB0D">
+		<name>Vuelo a Sevilla</name>
+		<LookAt>
+			<longitude>-5.894955235895227</longitude>
+			<latitude>37.45533937914438</latitude>
+			<altitude>21.37848670361437</altitude>
+			<heading>306.0885412105411</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>8916.062757361216</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_099F05E78F13E329883F</styleUrl>
+		<LineString>
+			<coordinates>
+				-0.45529556617246,51.46823582319767,14.76654034298505 -0.5006860216557507,51.31968400886164,14.29236663097466 -0.6815575492468262,50.75281366843063,-5.438784230436054 -1.136789615478251,47.49544103083029,516.8313258614784 -4.23734498180747,41.82008354580447,-129.9546404521815 -5.901940259239148,37.42134929306563,26.33588718425512 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="029B60F91613E32A1DF8">
+		<name>Aeropuerto Sevilla</name>
+		<LookAt>
+			<longitude>-5.899039425066448</longitude>
+			<latitude>37.42103194498979</latitude>
+			<altitude>24.53734975667584</altitude>
+			<heading>57.45826129249992</heading>
+			<tilt>43.41083723974273</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>903.0505399063989</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_099F05E78F13E329883F</styleUrl>
+		<Point>
+			<coordinates>-5.901700693136812,37.42116352484609,24.56461600775532</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00823E4EE713E32B3BD0">
+		<name>Camino Cordoba</name>
+		<LookAt>
+			<longitude>-4.784816386855604</longitude>
+			<latitude>37.87753097679141</latitude>
+			<altitude>129.3226325213155</altitude>
+			<heading>-69.75331545213321</heading>
+			<tilt>54.19546178528913</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4209.452181809465</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_099F05E78F13E329883F</styleUrl>
+		<LineString>
+			<coordinates>
+				-5.901348515761789,37.42194887661866,26.3340083727414 -5.893819383826486,37.43010249503819,26.3431996079252 -5.872568620463714,37.43244130261255,25.41860571350552 -5.842679422551892,37.43103933375701,45.40551393077621 -5.717648528176954,37.47278574289594,121.3117961079493 -5.578296503891891,37.54538031241363,86.20342712965449 -5.475000327737294,37.61297951424048,57.02159151040291 -5.314277161373973,37.69096834253089,41.18105271194645 -5.170216927352088,37.72167852485053,85.35004075774735 -4.974868868442735,37.80325757145476,99.76898843407881 -4.895885695929501,37.85987891197195,87.70717594226964 -4.825760502755426,37.87469137376903,85.04085245654073 -4.779907214999857,37.88809984487563,120.4041473204895 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0AF734C2E613E32A3F8C">
+		<name>Córdoba</name>
+		<gx:mid>/m/0f1rr</gx:mid>
+		<gx:fid>0xd6cdf26f95e0aef:0x4df1d2e8108456c3</gx:fid>
+		<LookAt>
+			<longitude>-4.7844853</longitude>
+			<latitude>37.8915444</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>18345.9556388814</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00395D949813E32A3F8E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-4.7793835,37.8881751,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

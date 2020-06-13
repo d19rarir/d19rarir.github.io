@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Etapa 3</name>
+	<gx:CascadingStyle kml:id="__managed_style_14E534472C13DDE2A6A1">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E3DEFCFBD13DDE2A6A1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_14E534472C13DDE2A6A1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2390730AC913DDE2A6A1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_232CF291FB13DDE1575A">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1AB0A6B6C013DDE1575A">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2390730AC913DDE2A6A1">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_032611110D13DDE1575A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1AB0A6B6C013DDE1575A</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_232CF291FB13DDE1575A</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0FFB4485F113DDE1575A">
+		<name>Aeropuerto Sudafrica</name>
+		<LookAt>
+			<longitude>28.23713079527447</longitude>
+			<latitude>-26.13300769200173</latitude>
+			<altitude>1682.282552526223</altitude>
+			<heading>0.5943902094855752</heading>
+			<tilt>58.20592596728309</tilt>
+			<gx:fovy>34.99999994917716</gx:fovy>
+			<range>1248.803954432515</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_032611110D13DDE1575A</styleUrl>
+		<Point>
+			<coordinates>28.23573578442737,-26.13400515847178,1688.440747747135</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09A58909EC13DDE441CF">
+		<name>Vuelo Sudafrica a Cataratas Victoria</name>
+		<LookAt>
+			<longitude>28.58041750425631</longitude>
+			<latitude>-20.16375807355769</latitude>
+			<altitude>1359.848730809971</altitude>
+			<heading>0.051884434498406</heading>
+			<tilt>48.19511954328379</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1226484.425401837</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_032611110D13DDE1575A</styleUrl>
+		<LineString>
+			<coordinates>
+				28.23618782077588,-26.13367507717682,1685.21987408304 26.62276560323845,-21.44041994160923,924.1677921182168 25.82267293922312,-18.05008912286082,1521.980359062454 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="09BE9465E013DDE2A6A0">
+		<name>Aeropuerto Cataratas Victoria </name>
+		<gx:mid>/m/04fn8vy</gx:mid>
+		<gx:fid>0x194fdd59663f9469:0xa6facc529cd86061</gx:fid>
+		<LookAt>
+			<longitude>25.8513443</longitude>
+			<latitude>-18.0958988</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>998.3285265056346</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E3DEFCFBD13DDE2A6A1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>25.8513443,-18.0958988,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02306882B413DDE713B0">
+		<name>Punto 1 Cataratas</name>
+		<LookAt>
+			<longitude>25.86414877111173</longitude>
+			<latitude>-17.94758802672352</latitude>
+			<altitude>831.8773193029995</altitude>
+			<heading>112.1282395805696</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35.00000004083386</gx:fovy>
+			<range>12225.18535671872</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_032611110D13DDE1575A</styleUrl>
+		<LineString>
+			<coordinates>
+				25.82607552436673,-18.07920407775862,1048.65731423068 25.85797362799432,-17.92715308105342,882.2057353572967 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0D438F3E7413DDE5CF0E">
+		<name>Victoria Falls</name>
+		<gx:mid>/g/11h2r4spcz</gx:mid>
+		<gx:fid>0x194fefbf5e7f9d25:0xad28a7174d310c9d</gx:fid>
+		<LookAt>
+			<longitude>25.8576386</longitude>
+			<latitude>-17.9272384</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>999.3941929922823</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E3DEFCFBD13DDE2A6A1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>25.8576386,-17.9272384,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08C5BA150513DDE9C35F">
+		<name>Punto 1 Cataratas</name>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipM_5w4TVx2nnb0r6-FDgN3vEtWDHO5_os31TVBA</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>25.8574250000002</longitude>
+			<latitude>-17.92668489999999</latitude>
+			<altitude>883.3026812813704</altitude>
+			<heading>6.532464281790736</heading>
+			<tilt>80.02496109369149</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_032611110D13DDE1575A</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>25.8574250000002,-17.92668489999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07E57B207013DDE75499">
+		<name>Punto 2 Cataratas</name>
+		<LookAt>
+			<longitude>25.86414877111173</longitude>
+			<latitude>-17.94758802672352</latitude>
+			<altitude>831.8773193029995</altitude>
+			<heading>112.1282395805696</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35.00000004083386</gx:fovy>
+			<range>12225.18535671872</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_032611110D13DDE1575A</styleUrl>
+		<LineString>
+			<coordinates>
+				25.85685343352861,-17.92689034832063,884.1571950304403 25.85260206101672,-17.92366367218502,892.4374021910849 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0626B383DF13DDE6A6A7">
+		<name>Victoria Falls</name>
+		<gx:mid>/g/11c3y16wbp</gx:mid>
+		<gx:fid>0x194fe54542142ad7:0x1e7472ce8f0965ad</gx:fid>
+		<LookAt>
+			<longitude>25.8523798</longitude>
+			<latitude>-17.923628</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>999.416901790981</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E3DEFCFBD13DDE2A6A1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>25.8523798,-17.923628,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03528897BB13DDEB22B4">
+		<name>Punto 2 Cataratas</name>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipNNN-gj_y7egkKR5VtirgYPrTVKWr_s_VI0MEmF</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>25.85229400000028</longitude>
+			<latitude>-17.92357700000006</latitude>
+			<altitude>886.9307850660506</altitude>
+			<heading>24.51294462112683</heading>
+			<tilt>73.43916817888005</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_032611110D13DDE1575A</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>25.85229400000028,-17.92357700000006,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AB66206BA13DDE7FF22">
+		<name>Vuelta a Sudafrica</name>
+		<LookAt>
+			<longitude>28.22566435091847</longitude>
+			<latitude>-26.12080178066642</latitude>
+			<altitude>1663.533504551127</altitude>
+			<heading>111.3015115890719</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35.00000004083386</gx:fovy>
+			<range>41935.08737677708</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_032611110D13DDE1575A</styleUrl>
+		<LineString>
+			<coordinates>
+				25.85297709505814,-17.92648946442539,890.0810713586661 25.8199200646355,-18.07454131763081,1032.697459639086 26.08221451569321,-19.28677990142513,1073.926084450109 26.87489518723676,-22.29946690489447,1166.417261593303 27.81063461251246,-24.98508311290621,1211.913977923301 28.23375458955817,-26.13311175885882,1688.591630252924 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

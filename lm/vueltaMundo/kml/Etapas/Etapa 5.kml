@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Etapa 5</name>
+	<gx:CascadingStyle kml:id="__managed_style_14DC1A878C13DEEC2812">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_025D70ED7813DEEC2812">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_14DC1A878C13DEEC2812</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2843D6187B13DEEC2812</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_00FCED90A013DEE21E4C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2843D6187B13DEEC2812">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1B681EB48713DEE21E4B">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A062EB4FD13DEE21E4B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B681EB48713DEE21E4B</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_00FCED90A013DEE21E4C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0CB1B9B28713DEE21E4B">
+		<name>Aeropuerto Dubai</name>
+		<LookAt>
+			<longitude>55.37573226199392</longitude>
+			<latitude>25.24015704916031</latitude>
+			<altitude>12.97912580770887</altitude>
+			<heading>7.677710511966799</heading>
+			<tilt>39.43014015879761</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1130.180073805241</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A062EB4FD13DEE21E4B</styleUrl>
+		<Point>
+			<coordinates>55.37334083697623,25.24075443628871,12.89731594812619</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00E60AD9F413DEEE768A">
+		<name>Vuelo a Nueva Zelanda</name>
+		<LookAt>
+			<longitude>172.5108200675241</longitude>
+			<latitude>-35.68276757140629</latitude>
+			<altitude>-65.26038907605555</altitude>
+			<heading>-26.58126215788714</heading>
+			<tilt>18.87302500535268</tilt>
+			<gx:fovy>30.00000906900052</gx:fovy>
+			<range>608408.859224394</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A062EB4FD13DEE21E4B</styleUrl>
+		<LineString>
+			<coordinates>
+				55.37432303544881,25.24443456538696,9.892582503438401 55.80238541278501,25.23951522004379,83.63371024900782 58.66880195481659,25.08953037073136,28.82261821801949 72.12497589780452,22.00801675687072,-1155.12777342951 86.40428745989632,16.41994155410801,-3820.741305085389 101.6284422521944,11.26187420710365,2459.542022525038 123.3318634447886,-1.624178668469886,51.17412061661776 140.294785446886,-15.55315827619177,556.8481688737412 155.2893114425806,-29.90282604189775,-5058.557668670644 169.5452207930508,-35.21407384259798,-2476.838766354049 174.3536273056127,-35.75235880520115,25.66170222012899 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="09EEFE6F7E13DEE52684">
+		<name>Aeropuerto Nueva Zelanda</name>
+		<LookAt>
+			<longitude>174.3656051705433</longitude>
+			<latitude>-35.77151897642283</latitude>
+			<altitude>29.80714840403219</altitude>
+			<heading>0.5629808124820315</heading>
+			<tilt>42.92840580211592</tilt>
+			<gx:fovy>35.00000000000001</gx:fovy>
+			<range>3013.483604746289</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A062EB4FD13DEE21E4B</styleUrl>
+		<Point>
+			<coordinates>174.3626838097054,-35.7691390851959,33.37153280964549</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01DC01F5B613DEEEF393">
+		<name>Camino a visitar Bay Island</name>
+		<LookAt>
+			<longitude>172.7084740102833</longitude>
+			<latitude>-36.09392752323291</latitude>
+			<altitude>-83.03964261242565</altitude>
+			<heading>-26.6865911155965</heading>
+			<tilt>18.87307933383859</tilt>
+			<gx:fovy>30.00000906900052</gx:fovy>
+			<range>608427.5615074486</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A062EB4FD13DEE21E4B</styleUrl>
+		<LineString>
+			<coordinates>
+				174.3798540329653,-35.71703680539406,17.34880508136402 174.159482037174,-35.20931775763374,68.74266449786997 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0D758379BA13DEEC2810">
+		<name>Bay of Islands</name>
+		<gx:mid>/m/01z714</gx:mid>
+		<gx:fid>0x6d0baf52337b76c9:0x2a00ef6165e1e080</gx:fid>
+		<LookAt>
+			<longitude>174.181403</longitude>
+			<latitude>-35.24254224999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>37972.44695817713</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_025D70ED7813DEEC2812</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>174.1646163,-35.1843701,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01CC43F5FE13DEEF4DD3">
+		<name>Visita a Taimai Tour</name>
+		<LookAt>
+			<longitude>172.7084740102833</longitude>
+			<latitude>-36.09392752323291</latitude>
+			<altitude>-83.03964261242565</altitude>
+			<heading>-26.6865911155965</heading>
+			<tilt>18.87307933383859</tilt>
+			<gx:fovy>30.00000906900052</gx:fovy>
+			<range>608427.5615074486</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A062EB4FD13DEE21E4B</styleUrl>
+		<LineString>
+			<coordinates>
+				174.1667108451799,-35.1981356047384,1.942865313485318 174.0546073856751,-35.29335754354002,7.331381279901037 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="069FD1424F13DEED85C7">
+		<name>Taiamai Tour</name>
+		<gx:mid>/g/119x57054</gx:mid>
+		<gx:fid>0x6d0bbaeaf5786651:0xd72e93b693c340c2</gx:fid>
+		<LookAt>
+			<longitude>174.0790005</longitude>
+			<latitude>-35.2737194</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>843.5785983590359</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_025D70ED7813DEEC2812</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>174.0790005,-35.2737194,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Etapa 7</name>
+	<gx:CascadingStyle kml:id="__managed_style_202C784BD013E311FAF5">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_15DF70B69A13E311FAF5">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A1AEA65FD13E311FAF5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_15DF70B69A13E311FAF5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_202C784BD013E311FAF5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_193BAEF06613E30B2FD8">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_28263D8CA213E30B2FD8">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_024593D4C813E30B2FD8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_193BAEF06613E30B2FD8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_28263D8CA213E30B2FD8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="01BF491FD313E30B2FD8">
+		<name>Aeropuerto de Tokyo</name>
+		<LookAt>
+			<longitude>139.7838910339254</longitude>
+			<latitude>35.55155777411412</latitude>
+			<altitude>0.966384309931132</altitude>
+			<heading>6.369169028317346</heading>
+			<tilt>7.678085038118657</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2916.280090605724</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_024593D4C813E30B2FD8</styleUrl>
+		<Point>
+			<coordinates>139.7810647230758,35.55027539612906,1.717723130228799</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09CC2108F113E3175D34">
+		<name>Vuelo a Los Angeles</name>
+		<LookAt>
+			<longitude>-118.404835469293</longitude>
+			<latitude>34.00712722665588</latitude>
+			<altitude>31.60227162297063</altitude>
+			<heading>-39.5450058140333</heading>
+			<tilt>20.87893873973814</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>64506.68411116116</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_024593D4C813E30B2FD8</styleUrl>
+		<LineString>
+			<coordinates>
+				139.7803550297007,35.54986402492305,-9.871232209658821 151.5388054666545,34.83647551124218,-9280.247631927914 173.8743758746633,36.94615380922793,-5097.914731078314 -167.8254226603256,40.14552529196083,-4612.239818126083 -148.4587833130689,43.71647038873599,-7800.855900369565 -124.7819456324572,38.43917909764741,-8439.173058248685 -118.4020157130473,33.9453052728726,30.93404327924559 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="09A6092D7B13E3119621">
+		<name>Aeropuerto Los Angeles</name>
+		<LookAt>
+			<longitude>-118.4007103217969</longitude>
+			<latitude>33.94361931556855</latitude>
+			<altitude>35.77179911192349</altitude>
+			<heading>-134.8038326197915</heading>
+			<tilt>45.00003560187726</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>864.1915330821939</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_024593D4C813E30B2FD8</styleUrl>
+		<Point>
+			<coordinates>-118.3991567186665,33.94225265877001,33.03279099055342</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="005BA0F48E13E317C8C0">
+		<name>Camino a Beverly Hills</name>
+		<LookAt>
+			<longitude>-118.4298487022413</longitude>
+			<latitude>33.99306146218059</latitude>
+			<altitude>5.654267795527444</altitude>
+			<heading>-39.51124272727327</heading>
+			<tilt>20.79906459557345</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>39349.8616526043</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_024593D4C813E30B2FD8</styleUrl>
+		<LineString>
+			<coordinates>
+				-118.4014937992642,33.94297781680719,31.06629818649624 -118.3686616940449,33.94657763015024,25.2090683011244 -118.3710137846704,33.9683766244683,25.62543455801342 -118.3993297280473,33.98397802250268,5.54731620905245 -118.4230643397873,34.01956512342316,27.09428971264829 -118.4371262369378,34.03849812645473,56.92842601208617 -118.4503858159457,34.05373205304732,89.28290044845345 -118.4326948167101,34.06073067432749,97.38598846614872 -118.4189438984807,34.06400607954633,92.07766939983472 -118.400629687695,34.07351837587893,83.65956514968192 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0FCC21A9F913E311FAF4">
+		<name>Beverly Hills</name>
+		<gx:mid>/m/0k049</gx:mid>
+		<gx:fid>0x80c2bc04d6d147ab:0xd6c7c379fd081ed1</gx:fid>
+		<LookAt>
+			<longitude>-118.3995339</longitude>
+			<latitude>34.0825489</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>19253.89852824263</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A1AEA65FD13E311FAF5</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.4003563,34.0736204,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FA5997C3D13E31810BF">
+		<name>Camino Observatorio Griffith</name>
+		<LookAt>
+			<longitude>-118.4298487022413</longitude>
+			<latitude>33.99306146218059</latitude>
+			<altitude>5.654267795527444</altitude>
+			<heading>-39.51124272727336</heading>
+			<tilt>20.79906459557353</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>39349.8616526043</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_024593D4C813E30B2FD8</styleUrl>
+		<LineString>
+			<coordinates>
+				-118.4002682897586,34.07489339631073,86.5793626221447 -118.3774443103385,34.08906424614549,70.51757180977445 -118.3658242219136,34.10060526309777,169.1593662511386 -118.3358447859426,34.10684939616516,142.0528822155392 -118.332240525691,34.11217138248567,167.1972877715996 -118.3405470384615,34.12287065533924,230.9561910848638 -118.3153062052636,34.12159487100282,212.4343932017685 -118.301972784673,34.1194979035632,287.3179944979888 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="04F1393EB313E312F780">
+		<name>Observatorio Griffith</name>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipP4jtGPEOaMf2RIh2m0WfG_-woirROVlv9UogKZ</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-118.3003404999997</longitude>
+			<latitude>34.11799330000013</latitude>
+			<altitude>349.7478290430141</altitude>
+			<heading>170.9849201474766</heading>
+			<tilt>91.24114682724128</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_024593D4C813E30B2FD8</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.3003404999997,34.11799330000013,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0083CA460913E3186DDC">
+		<name>Camino al Muelle</name>
+		<LookAt>
+			<longitude>-118.4298487022413</longitude>
+			<latitude>33.99306146218059</latitude>
+			<altitude>5.654267795527444</altitude>
+			<heading>-39.51124272727336</heading>
+			<tilt>20.79906459557353</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>39349.8616526043</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_024593D4C813E30B2FD8</styleUrl>
+		<LineString>
+			<coordinates>
+				-118.3001015830637,34.11641748361499,278.8654775787991 -118.3396732849804,34.12267309901722,234.7573986797094 -118.3329142404684,34.10738000584079,137.2946548601801 -118.4479470767336,34.05502631507414,86.79294680036874 -118.4355420382662,34.03137920699159,53.45774992342361 -118.4969811275453,34.01078599611197,5.76140967343175 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0BDC694D4D13E31452EF">
+		<name>Muelle Santa Monica y playa</name>
+		<LookAt>
+			<longitude>-118.4967883786157</longitude>
+			<latitude>34.00872443212154</latitude>
+			<altitude>0.6117680101754619</altitude>
+			<heading>-55.51567943259452</heading>
+			<tilt>44.99774465960186</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>503.1684843218682</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_024593D4C813E30B2FD8</styleUrl>
+		<Point>
+			<coordinates>-118.4970990780336,34.00876531890529,8.146500927171026</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07D29099EF13E318C52F">
+		<name>Camino a Staples Center</name>
+		<LookAt>
+			<longitude>-118.4298487022413</longitude>
+			<latitude>33.99306146218059</latitude>
+			<altitude>5.654267795527444</altitude>
+			<heading>-39.51124272727341</heading>
+			<tilt>20.79906459557338</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>39349.8616526043</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_024593D4C813E30B2FD8</styleUrl>
+		<LineString>
+			<coordinates>
+				-118.496235052141,34.01168014685865,5.802054614183437 -118.4659690145212,34.02564768673103,45.18587977525934 -118.4330610634639,34.03129484343654,40.11669621702901 -118.4033912035298,34.0297333477262,36.31517070824879 -118.3779621492701,34.03968042932393,25.31110521091503 -118.3433567746997,34.03719537010185,45.29015453574186 -118.3072907399955,34.03871192422601,64.97493286403889 -118.2736353702354,34.03725929849353,64.82445010466128 -118.2664262752067,34.04563290450478,70.81566094374625 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="04391495E113E315F3F0">
+		<name>Staples Center</name>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipML7N5Vt1cX5XxBtCNutigmP5AJGSphOcnHbQbn</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-118.2658463000042</longitude>
+			<latitude>34.04367070000001</latitude>
+			<altitude>74.69375903544567</altitude>
+			<heading>234.2124927625505</heading>
+			<tilt>110.0819780365028</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_024593D4C813E30B2FD8</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.2658463000042,34.04367070000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02DA2CCA0A13E3163C68">
+		<name>Staples Center</name>
+		<gx:mid>/m/02kk5s</gx:mid>
+		<gx:fid>0x80c2c7b85dea2a93:0x1ff47c3ceb7bb2d5</gx:fid>
+		<LookAt>
+			<longitude>-118.2672541</longitude>
+			<latitude>34.0430175</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>857.4821537460567</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A1AEA65FD13E311FAF5</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.2672541,34.0430175,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

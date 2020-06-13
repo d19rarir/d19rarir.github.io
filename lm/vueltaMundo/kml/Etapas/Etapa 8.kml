@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Etapa 8</name>
+	<gx:CascadingStyle kml:id="__managed_style_2160BCF48313E31CC78C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_11FECC4C6B13E31CC78C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_01FFC5386513E31CC78C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_11FECC4C6B13E31CC78C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2160BCF48313E31CC78C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_26879C362C13E31B49B3">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_10570982C813E31B49B3">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_01BA6583A213E31B49B3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_10570982C813E31B49B3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_26879C362C13E31B49B3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0284EE4CE913E31B49B3">
+		<name>Aeropuerto Los Angeles</name>
+		<LookAt>
+			<longitude>-118.4018379403824</longitude>
+			<latitude>33.94124564693264</latitude>
+			<altitude>44.91709645365518</altitude>
+			<heading>-39.45757294829204</heading>
+			<tilt>20.67531549590848</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>374.6411167969563</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01BA6583A213E31B49B3</styleUrl>
+		<Point>
+			<coordinates>-118.4026835874792,33.94060320925681,33.52287439300389</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0382DD844A13E31DF0DB">
+		<name>Vuelo a Peru</name>
+		<LookAt>
+			<longitude>-74.17837688981632</longitude>
+			<latitude>-13.13380911176401</latitude>
+			<altitude>2766.812092587615</altitude>
+			<heading>-32.32671030643142</heading>
+			<tilt>6.618948322235154</tilt>
+			<gx:fovy>34.99999999999896</gx:fovy>
+			<range>9190.937218837207</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01BA6583A213E31B49B3</styleUrl>
+		<LineString>
+			<coordinates>
+				-118.4026382686891,33.94060105283913,33.58551484251736 -117.8439460996534,33.57797800493195,95.20678762420317 -116.9147918731829,33.04376361877137,493.0674876651699 -115.6205805935864,32.25056665788932,-40.14819191431262 -110.8979657582933,28.27288606908946,168.8427344590878 -98.69038679466787,17.79800308299129,1675.766214072761 -74.21174775057614,-13.15017991508924,3124.163728344876 -74.20512811647369,-13.15430561739928,2743.661105501564 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="08C10AE57F13E31D2F87">
+		<name>Aeropuerto Peru</name>
+		<LookAt>
+			<longitude>-74.20438942027602</longitude>
+			<latitude>-13.15611129857739</latitude>
+			<altitude>2740.237066609047</altitude>
+			<heading>359.9903921568967</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999268658777</gx:fovy>
+			<range>3347.249935725123</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01BA6583A213E31B49B3</styleUrl>
+		<Point>
+			<coordinates>-74.2055945776992,-13.15434096936754,2748.943235804559</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BD6CC247613E31E65DD">
+		<name>Camino  a Machu Picchu</name>
+		<LookAt>
+			<longitude>-72.95697544073062</longitude>
+			<latitude>-13.08076304136945</latitude>
+			<altitude>3416.003858720661</altitude>
+			<heading>-32.55267524335233</heading>
+			<tilt>6.920177140613676</tilt>
+			<gx:fovy>34.99999999999896</gx:fovy>
+			<range>300353.7054796145</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01BA6583A213E31B49B3</styleUrl>
+		<LineString>
+			<coordinates>
+				-74.18889263713476,-13.12806643220473,2611.978978450786 -73.91720565996674,-13.31991741594385,4218.398211095935 -73.74381763929284,-13.17887628398869,2123.998455820647 -73.50013318458818,-13.41974507630882,1959.925272395927 -73.21405376493011,-13.44467683737865,1540.320346372994 -73.00610435341143,-13.40745606096359,1987.025896147267 -72.74169183772506,-13.45066342646884,3253.448963897332 -72.5515332980108,-13.52386548610324,2759.650248280421 -72.48050659317997,-13.37944692991678,4645.342885829019 -72.55233801068326,-13.18604267455851,2530.298418539614 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0BE6B6907613E31CC78B">
+		<name>Machu Picchu</name>
+		<gx:mid>/m/0krfy</gx:mid>
+		<gx:fid>0x916d9a5f89555555:0x3a10370ea4a01a27</gx:fid>
+		<LookAt>
+			<longitude>-72.5449629</longitude>
+			<latitude>-13.1631412</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.541793635926</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01FFC5386513E31CC78C</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-72.5449629,-13.1631412,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

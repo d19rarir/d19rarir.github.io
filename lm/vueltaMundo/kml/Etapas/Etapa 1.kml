@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Etapa 1</name>
+	<StyleMap id="__managed_style_006D49C0C813D8306BCC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1796788C5913D8306BCC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_21F348F69313D8306BCC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1796788C5913D8306BCC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2510CAA53413D8118809">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_21F348F69313D8306BCC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_19D69A1B9E13D8118809">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0D055B127613D8118809">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_19D69A1B9E13D8118809</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2510CAA53413D8118809</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0B67A266F213D4D57121">
+		<name>Salida de Córdoba</name>
+		<LookAt>
+			<longitude>-4.789863388917139</longitude>
+			<latitude>37.88882475634189</latitude>
+			<altitude>122.0278915728455</altitude>
+			<heading>99.69958107303586</heading>
+			<tilt>44.9957829799143</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>149.5441424739693</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D055B127613D8118809</styleUrl>
+		<Point>
+			<coordinates>-4.789944245002107,37.88888519275648,125.3191510771124</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03FA8DBA1913D817BC06">
+		<name>Recorrido Etapa 1</name>
+		<LookAt>
+			<longitude>-5.87493505572708</longitude>
+			<latitude>38.05790924585997</latitude>
+			<altitude>785.2177906177367</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000175269</gx:fovy>
+			<range>1759954.707925916</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D055B127613D8118809</styleUrl>
+		<LineString>
+			<coordinates>
+				-4.789864063593744,37.889262050073,125.6645932364008 -4.75379789379314,37.90459692792622,121.492251382265 -4.677070759190471,37.92190478187368,133.9993802596987 -4.514737553941018,37.94044098978399,140.6630316840187 -4.36864419804122,38.0279491421256,287.7708757937295 -4.056018181097171,38.0380840731096,293.3320351239051 -3.786741425129014,38.102338628797,408.3554528413993 -3.572086670828953,38.29298377496975,663.7277509321441 -3.42870524735635,38.66953674831186,698.7604247454954 -3.365324138901452,39.20244718608994,665.2924337680626 -3.697273621839195,39.46648221283238,1130.710923448875 -3.606897220440376,39.86726908971166,881.3942114263097 -3.474964838821165,40.24813990375144,430.232539828235 -3.688411151084059,40.40562537823121,625.8445082256858 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0E7B24919113D81A2C0E">
+		<name>Llegada Madrid- Estación de Atocha</name>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipMqBF7s783QzasIPjnXU4SETUzmmNSMML7oOTZG</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-3.692070899999548</longitude>
+			<latitude>40.4078686999996</latitude>
+			<altitude>623.4693159385129</altitude>
+			<heading>167.4533006798844</heading>
+			<tilt>105.8942106901315</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_0D055B127613D8118809</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.692070899999548,40.4078686999996,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07731771E613D81B0C97">
+		<name>Atocha Retiro</name>
+		<LookAt>
+			<longitude>-3.694425094604687</longitude>
+			<latitude>40.41299580069838</latitude>
+			<altitude>657.8674385335706</altitude>
+			<heading>177.5048417934065</heading>
+			<tilt>3.438756926237527</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2400.54753957811</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D055B127613D8118809</styleUrl>
+		<LineString>
+			<coordinates>
+				-3.692058778581798,40.40804122082611,622.7107620087895 -3.691686375108679,40.40954251714474,625.6736647841572 -3.688837850788989,40.40969808101018,641.3612255008769 -3.688944825875198,40.41537367920528,651.5783549720112 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0953CA7E6313D81C4A4A">
+		<name>Retiro</name>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>JnODvFld7f-CAzlIQJ4IvA</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-3.688893860420221</longitude>
+			<latitude>40.41530434836036</latitude>
+			<altitude>654.2436479325663</altitude>
+			<heading>92.99966419420778</heading>
+			<tilt>93.6564466453178</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_0D055B127613D8118809</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.688893860420221,40.41530434836036,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E055E95E813D81CD7D1">
+		<name>Camino al estanque</name>
+		<LookAt>
+			<longitude>-3.687358237957482</longitude>
+			<latitude>40.41261228562536</latitude>
+			<altitude>652.9182492112153</altitude>
+			<heading>94.13637213313255</heading>
+			<tilt>3.47755555434251</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2669.563074777543</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D055B127613D8118809</styleUrl>
+		<LineString>
+			<coordinates>
+				-3.688709588572291,40.41527227270761,651.67496317989 -3.68431186178521,40.41546026193286,665.2838918211274 -3.684805680725149,40.41702261663972,665.0251741034184 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0B04AD476813D81DBAE2">
+		<name>Estanque Retiro</name>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipMb65_eAu5YUwKHibZQDkkJR5f0Q7CYU6XJLX4P</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-3.684458399999943</longitude>
+			<latitude>40.41640020000016</latitude>
+			<altitude>667.4528842263729</altitude>
+			<heading>49.92102935873955</heading>
+			<tilt>98.87436883734784</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_0D055B127613D8118809</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.684458399999943,40.41640020000016,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0987821EE113D820F9EE">
+		<name>Camino a Gran Via</name>
+		<LookAt>
+			<longitude>-3.690463413321839</longitude>
+			<latitude>40.41808927093237</latitude>
+			<altitude>648.7604539262652</altitude>
+			<heading>17.38079499590827</heading>
+			<tilt>24.02370362975311</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1371.357921517629</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D055B127613D8118809</styleUrl>
+		<LineString>
+			<coordinates>
+				-3.684826533572888,40.41707537271795,665.1304644965721 -3.685588170567521,40.41865889676563,664.6281899187726 -3.688027939909536,40.4196423699928,655.9884894467016 -3.690320138475972,40.4197548139263,649.5920252145883 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="016BFF4DB713D821E554">
+		<name>Puerta Alcalá</name>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipMVASf6VMmY5jpIrwVPlm5l3Pdy2bF7bsO2clPt</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-3.689318100001686</longitude>
+			<latitude>40.41990989999937</latitude>
+			<altitude>655.9917332326498</altitude>
+			<heading>347.2528759751646</heading>
+			<tilt>104.0136937911633</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_0D055B127613D8118809</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.689318100001686,40.41990989999937,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CC64EBEB013D822EA4A">
+		<name>Cibeles</name>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>fife-media:AF1QipNQNfcryoQWyLX4qD4tOGSTGrVAQhuBg4-Ssdax</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-3.693383299999873</longitude>
+			<latitude>40.41965329999961</latitude>
+			<altitude>645.0138763207242</altitude>
+			<heading>2.682534571722037</heading>
+			<tilt>95.67495483751171</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_0D055B127613D8118809</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.693383299999873,40.41965329999961,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="016755F91513D82EC85B">
+		<name>Camino Tierra Burrito</name>
+		<LookAt>
+			<longitude>-3.680927956175468</longitude>
+			<latitude>40.42956657167248</latitude>
+			<altitude>698.9608743264174</altitude>
+			<heading>1.760181941444891</heading>
+			<tilt>2.619550661938743</tilt>
+			<gx:fovy>35.00000000000001</gx:fovy>
+			<range>6177.320111118606</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D055B127613D8118809</styleUrl>
+		<LineString>
+			<coordinates>
+				-3.69060923997758,40.41972437687119,649.3328233900509 -3.692882794867614,40.41940305705342,646.9019177885616 -3.688333730739873,40.43268079268707,662.7586364851956 -3.689851809449852,40.43741432572686,670.5600028842742 -3.686753338975538,40.43787117697246,673.0603496415049 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="063BF9CD7A13D8306BCA">
+		<name>Tierra Burrito Bar</name>
+		<gx:mid>/g/12qfngtmk</gx:mid>
+		<gx:fid>0xd4228eb9534459d:0xeff944801adcfd5a</gx:fid>
+		<LookAt>
+			<longitude>-3.6865454</longitude>
+			<latitude>40.4376839</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>781.1171862365744</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_006D49C0C813D8306BCC</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.6865454,40.4376839,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

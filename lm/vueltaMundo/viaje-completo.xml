@@ -194,7 +194,7 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
                 Hyde Park a modo de despedida tranquila a esta experiencia tan increible.
             </descripcion>
             <foto>./img/Londres.jpg</foto>
-            <kml></kml>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=1U28DfGYrzxS92ez3JmkK2GsRlO8PqsuY</kml>
         </etapa>
         
         <!-- Etapa 11 -->

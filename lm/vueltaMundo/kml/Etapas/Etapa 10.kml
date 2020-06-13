@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Etapa 10</name>
+	<gx:CascadingStyle kml:id="__managed_style_1CE48B3D8013E374460D">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_25756AB45D13E369DEBD">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_12113C1F3A13E369DEBD">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2B065DBC0A13E374460D">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F2FB6667013E374460D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1CE48B3D8013E374460D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2B065DBC0A13E374460D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_06187751F813E369DEBD">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_12113C1F3A13E369DEBD</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_25756AB45D13E369DEBD</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="05D041D0D613E369DEBD">
+		<name>Aeropuerto Oslo</name>
+		<LookAt>
+			<longitude>11.10071611959114</longitude>
+			<latitude>60.19576085637474</latitude>
+			<altitude>206.1102798760771</altitude>
+			<heading>9.95513337329389</heading>
+			<tilt>41.13050202560019</tilt>
+			<gx:fovy>34.99999999971214</gx:fovy>
+			<range>1655.87444974808</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06187751F813E369DEBD</styleUrl>
+		<Point>
+			<coordinates>11.09816325225508,60.19645849576358,206.9721119515743</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0199BB762C13E3777E6C">
+		<name>Vuelo a Londres</name>
+		<LookAt>
+			<longitude>-0.2520118247122016</longitude>
+			<latitude>51.54395824164641</latitude>
+			<altitude>32.70352015205007</altitude>
+			<heading>-38.49743508302365</heading>
+			<tilt>0.1313468557136097</tilt>
+			<gx:fovy>34.99999080361021</gx:fovy>
+			<range>42094.16061838623</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06187751F813E369DEBD</styleUrl>
+		<LineString>
+			<coordinates>
+				11.09803806120407,60.1963708038025,204.3762075912296 3.198644329878479,55.16241583653735,26.62353788374632 0.4454187813433008,52.23377382839391,265.9490969291279 -0.4555659858027583,51.46975193993716,14.71975818640308 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="040EBB7B4C13E36C7252">
+		<name>Aeropuerto Londres</name>
+		<LookAt>
+			<longitude>-0.4537614258504308</longitude>
+			<latitude>51.46925668591184</latitude>
+			<altitude>38.352801859442</altitude>
+			<heading>-64.31462015281798</heading>
+			<tilt>44.15931770344086</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>611.8612271754682</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06187751F813E369DEBD</styleUrl>
+		<Point>
+			<coordinates>-0.4566636500310295,51.46809562864885,21.77557608174193</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AD78865D613E377F4CC">
+		<name>Camino al Big Ben</name>
+		<LookAt>
+			<longitude>-0.1447140735574681</longitude>
+			<latitude>51.50853422509557</latitude>
+			<altitude>47.93239256159877</altitude>
+			<heading>-38.49660403980541</heading>
+			<tilt>0.1306180151734193</tilt>
+			<gx:fovy>34.99999080361021</gx:fovy>
+			<range>6507.546017440036</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06187751F813E369DEBD</styleUrl>
+		<LineString>
+			<coordinates>
+				-0.4564682977820622,51.47338101495438,14.62811829726119 -0.4542030917739548,51.49538413942959,39.39220868295155 -0.3782248027946877,51.48843324330093,14.44045099404295 -0.3215413389760402,51.49239954938769,14.46625150997401 -0.2703683306488314,51.48732569788226,14.8313354680169 -0.235598475959431,51.49297103966109,14.49700596191179 -0.2130091617896435,51.47902154793751,14.30925034502333 -0.196293733917724,51.47340927191797,14.56124625901249 -0.1792903330287821,51.48380247966039,14.91175049982843 -0.1511904189605895,51.48674645037455,0.08060177247335654 -0.131331165370725,51.49031123811302,14.3522709401967 -0.1243739120500253,51.50087219086652,6.948020681337217 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="057CE27BE913E3742CFD">
+		<name>Big Ben</name>
+		<LookAt>
+			<longitude>-0.124545775988536</longitude>
+			<latitude>51.50078217692948</latitude>
+			<altitude>61.78049909237113</altitude>
+			<heading>-136.9049982775935</heading>
+			<tilt>44.99992745089781</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>616.5292420417245</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06187751F813E369DEBD</styleUrl>
+		<Point>
+			<coordinates>-0.1240179604712932,51.50087329904306,7.155840848251165</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="026037AA5013E374460B">
+		<name>Big Ben</name>
+		<gx:mid>/m/026ydc</gx:mid>
+		<gx:fid>0x487604c38c8cd1d9:0xb78f2474b9a45aa9</gx:fid>
+		<LookAt>
+			<longitude>-0.1246254</longitude>
+			<latitude>51.50072919999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>627.9379575385799</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F2FB6667013E374460D</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-0.1246254,51.5007292,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="081666465113E378457C">
+		<name>Camino a London Eye</name>
+		<LookAt>
+			<longitude>-0.1447140735574681</longitude>
+			<latitude>51.50853422509557</latitude>
+			<altitude>47.93239256159877</altitude>
+			<heading>-38.49660403980541</heading>
+			<tilt>0.1306180151734193</tilt>
+			<gx:fovy>34.99999080361021</gx:fovy>
+			<range>6507.546017440036</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06187751F813E369DEBD</styleUrl>
+		<LineString>
+			<coordinates>
+				-0.1234836032671882,51.50098485928351,4.159177680779758 -0.118453006838305,51.50080637808728,4.799476631077271 -0.1189702883912869,51.50369958336054,4.662191522710097 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="06132C8B3213E37519AC">
+		<name>London Eye</name>
+		<LookAt>
+			<longitude>-0.1191188358324946</longitude>
+			<latitude>51.50330099325475</latitude>
+			<altitude>9.386369308251318</altitude>
+			<heading>94.98019554083271</heading>
+			<tilt>45.00026501977389</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>669.576416314012</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06187751F813E369DEBD</styleUrl>
+		<Point>
+			<coordinates>-0.120426893790474,51.50341861451144,6.883283010434908</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="072A8E8AB313E378E2AE">
+		<name>Camino a Buckingham Palace</name>
+		<LookAt>
+			<longitude>-0.1447140735574681</longitude>
+			<latitude>51.50853422509557</latitude>
+			<altitude>47.93239256159877</altitude>
+			<heading>-38.49660403980541</heading>
+			<tilt>0.1306180151734193</tilt>
+			<gx:fovy>34.99999080361021</gx:fovy>
+			<range>6507.546017440036</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06187751F813E369DEBD</styleUrl>
+		<LineString>
+			<coordinates>
+				-0.1185398879081834,51.50343066550748,4.16414635034954 -0.1192500890337522,51.50062481058204,4.562507236865221 -0.1250953545801814,51.5007705353039,2.577498206504187 -0.1411225808009842,51.50021354720392,4.66704253031399 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="047A929BD213E37559CA">
+		<name>Palacio de Buckingham</name>
+		<gx:mid>/m/0198g</gx:mid>
+		<gx:fid>0x48760520cd5b5eb5:0xa26abf514d902a7</gx:fid>
+		<LookAt>
+			<longitude>-0.14189</longitude>
+			<latitude>51.501364</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>627.9285272712517</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F2FB6667013E374460D</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-0.14189,51.501364,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08C84C7E6113E3798926">
+		<name>Camino a Tower Bridge</name>
+		<LookAt>
+			<longitude>-0.1209517020497841</longitude>
+			<latitude>51.52100607147798</latitude>
+			<altitude>29.11152976392058</altitude>
+			<heading>-38.47219951168212</heading>
+			<tilt>0.1307925140092503</tilt>
+			<gx:fovy>34.99999080361021</gx:fovy>
+			<range>15027.52325634705</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06187751F813E369DEBD</styleUrl>
+		<LineString>
+			<coordinates>
+				-0.1395094276498554,51.50016172876143,3.975714334890501 -0.1185520798987305,51.50058938802785,4.509722598395742 -0.1145852560779281,51.50721279339722,2.683097481062433 -0.1011788388747414,51.50721625122486,3.981204708399193 -0.08615246759737127,51.50532521793946,6.584608631162596 -0.07764406617669639,51.50437297682174,4.194286308730661 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="00981079F013E375F2F7">
+		<name>Tower Bridge</name>
+		<LookAt>
+			<longitude>-0.07542769194205379</longitude>
+			<latitude>51.50547194021359</latitude>
+			<altitude>12.55882175958701</altitude>
+			<heading>109.325376396571</heading>
+			<tilt>44.99995304135106</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>620.4833404925012</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06187751F813E369DEBD</styleUrl>
+		<Point>
+			<coordinates>-0.07647032810163323,51.50591173671321,-0.4956847734377706</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="090C28BFA813E379F806">
+		<name>Camino a Hyde Park</name>
+		<LookAt>
+			<longitude>-0.09051608055403171</longitude>
+			<latitude>51.50900226245214</latitude>
+			<altitude>4.617814661677708</altitude>
+			<heading>-38.44426891210426</heading>
+			<tilt>0.1308084112575129</tilt>
+			<gx:fovy>34.99999080361021</gx:fovy>
+			<range>15803.92759222537</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06187751F813E369DEBD</styleUrl>
+		<LineString>
+			<coordinates>
+				-0.07702176810047701,51.5045884387295,4.591350815697972 -0.1143016828248089,51.50703837187076,10.89720022421615 -0.1183122706763606,51.50093189669438,8.838068819439894 -0.1461669565587753,51.50017917022817,4.498797149984252 -0.153098725015216,51.50369584818601,16.83133748957336 -0.1620157086635321,51.50353787619166,16.85470014191942 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="031DC4FBEA13E37708B5">
+		<name>Hyde Park</name>
+		<LookAt>
+			<longitude>-0.1645627653263548</longitude>
+			<latitude>51.50482007629441</latitude>
+			<altitude>13.32698221009267</altitude>
+			<heading>168.0208803228102</heading>
+			<tilt>44.24218622004802</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1119.443838940206</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06187751F813E369DEBD</styleUrl>
+		<Point>
+			<coordinates>-0.1633881693067663,51.50333961066877,34.49366132780558</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

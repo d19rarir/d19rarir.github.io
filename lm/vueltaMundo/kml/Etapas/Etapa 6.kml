@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Etapa 6</name>
+	<gx:CascadingStyle kml:id="__managed_style_2ED068F24413E2FF0844">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_162DC19E7F13E2FF0844">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_04E1E5BAE313E2FF0844">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_162DC19E7F13E2FF0844</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2ED068F24413E2FF0844</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2EB331ECE813E2FAF5D3">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_12BC33B56E13E2FAF5D3">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B79F173B713E2FAF5D3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_12BC33B56E13E2FAF5D3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2EB331ECE813E2FAF5D3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="000BA99FA313E2FAF5D3">
+		<name>Aeropuerto de Nueva Zelanda</name>
+		<LookAt>
+			<longitude>174.3552237175928</longitude>
+			<latitude>-35.78625565952281</latitude>
+			<altitude>0.06850651876429747</altitude>
+			<heading>0.6616754009192054</heading>
+			<tilt>1.343622143589494</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>66397.28200346233</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B79F173B713E2FAF5D3</styleUrl>
+		<Point>
+			<coordinates>174.3626838097054,-35.7691390851959,39.12025725565504</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="047DC810D513E3052BE4">
+		<name>Vuelo a Tokyo</name>
+		<LookAt>
+			<longitude>139.9264648446954</longitude>
+			<latitude>35.44107118027024</latitude>
+			<altitude>10.04493017682388</altitude>
+			<heading>-8.21885368170199</heading>
+			<tilt>0.770308143586908</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>133722.0595900342</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B79F173B713E2FAF5D3</styleUrl>
+		<LineString>
+			<coordinates>
+				174.3623994420275,-35.76865042103616,36.12315249826987 173.8934764778259,-35.28939275611513,112.2048554325499 173.0693910445612,-34.48473834484729,37.89074092863433 170.6353981881322,-32.76399528883483,115.1572851329415 162.9191739334385,-18.88905843835504,-12939.17641237509 156.0667071203123,-4.147412525834184,186.8391247929367 149.8856081242272,13.1289203380135,-6333.505129303585 143.4304411039355,27.58515334902695,-8303.90775918679 139.9854967622261,35.04366530230822,6.593865552715488 139.7821783436365,35.55058625755752,8.822708971719253 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="024E5D723913E2FD867F">
+		<name>Aeropuerto Tokyo</name>
+		<LookAt>
+			<longitude>139.7810482439028</longitude>
+			<latitude>35.54717394492697</latitude>
+			<altitude>1.292949577716729</altitude>
+			<heading>82.01639797848229</heading>
+			<tilt>60.0000000006925</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>796.4210669478055</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B79F173B713E2FAF5D3</styleUrl>
+		<Point>
+			<coordinates>139.7813350190507,35.54741757812406,1.847632850150589</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CFBA1B60A13E30598DC">
+		<name>Vuelo a Kobe</name>
+		<LookAt>
+			<longitude>135.3981808813782</longitude>
+			<latitude>34.71971548525506</latitude>
+			<altitude>-8.278510394574599</altitude>
+			<heading>-10.11221408475439</heading>
+			<tilt>0.7654515926843037</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>92710.48644105904</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B79F173B713E2FAF5D3</styleUrl>
+		<LineString>
+			<coordinates>
+				139.773595820833,35.54792629716238,9.700130996557579 139.1001971249349,35.27821970425268,324.3986377045412 138.4458574743535,34.80726592545701,12.33868636867891 137.1758640650311,34.6474780158992,76.28779485024165 136.0000830973346,34.54257068142856,302.8349989510488 135.2664945574461,34.53492291966261,-27.42669114069455 135.2287386783557,34.6357778353082,-8.538316657347822 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="05BECFC73C13E2FE446E">
+		<name>Aeropuerto Kobe</name>
+		<LookAt>
+			<longitude>135.2293739833634</longitude>
+			<latitude>34.63535721025466</latitude>
+			<altitude>-0.516709234150472</altitude>
+			<heading>76.02873235371551</heading>
+			<tilt>24.85296404460619</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>428.4024160831177</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B79F173B713E2FAF5D3</styleUrl>
+		<Point>
+			<coordinates>135.2293258700758,34.6357126186636,-0.5171706745809951</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E0E97513D13E3061E62">
+		<name>Camino a Kichi Kichi</name>
+		<LookAt>
+			<longitude>135.7659085783768</longitude>
+			<latitude>34.99952820012481</latitude>
+			<altitude>38.62031566425622</altitude>
+			<heading>-10.1145181696983</heading>
+			<tilt>0.7551364068672107</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5603.386753890663</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B79F173B713E2FAF5D3</styleUrl>
+		<LineString>
+			<coordinates>
+				135.2338936223248,34.64013239019552,5.566362811574377 135.2275010742696,34.65264467263097,5.549657228637395 135.2004674412715,34.68631437654592,5.48730152330378 135.3213154474739,34.73444295484136,7.518566500652719 135.4940259630758,34.76237731498459,15.82009631143247 135.6045967941158,34.86386659467437,203.7244221684295 135.7105254668433,34.91520903061357,123.0837278894373 135.8085019178253,34.96391535524521,168.2701792618699 135.7709327933743,35.00742757213867,36.33579211575827 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="044661D35A13E2FF0842">
+		<name>Kichi Kichi Omurice</name>
+		<gx:mid>/g/1tfd2927</gx:mid>
+		<gx:fid>0x60010894b20b41dd:0x98dd4445067a93b4</gx:fid>
+		<LookAt>
+			<longitude>135.7708108</longitude>
+			<latitude>35.0072788</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>846.621997687207</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04E1E5BAE313E2FF0844</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>135.7708108,35.0072788,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C8965992B13E3068EDD">
+		<name>Camino aeropuerto Kobe</name>
+		<LookAt>
+			<longitude>135.4864568574788</longitude>
+			<latitude>34.91613040814355</latitude>
+			<altitude>493.2027983883776</altitude>
+			<heading>-17.72682325795062</heading>
+			<tilt>13.12818388562506</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>134246.6610031016</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B79F173B713E2FAF5D3</styleUrl>
+		<LineString>
+			<coordinates>
+				135.7715974502017,35.0086688110632,40.71381490078842 135.7594445354916,34.93782441439883,5.884328781164112 135.6652027402119,34.89046846014946,52.75279702717511 135.5327668248866,34.79883197670138,16.03309862213586 135.2000636472201,34.68571118120303,8.620064436488741 135.2311180298915,34.63227107243351,-37.11830690453735 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="08F25004D113E30103C1">
+		<name>Aeropuerto Kobe</name>
+		<LookAt>
+			<longitude>135.2293739833634</longitude>
+			<latitude>34.63535721031806</latitude>
+			<altitude>-0.5167092334431478</altitude>
+			<heading>76.02873235358275</heading>
+			<tilt>24.85287461513086</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>428.4024160831177</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B79F173B713E2FAF5D3</styleUrl>
+		<Point>
+			<coordinates>135.2289977541932,34.63586446372166,-0.5172931112837698</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A1BAD41AE13E30716DE">
+		<name>Vuelo a Tokyo</name>
+		<LookAt>
+			<longitude>139.5364995971523</longitude>
+			<latitude>35.62710052630565</latitude>
+			<altitude>47.90113705817405</altitude>
+			<heading>6.323324539753566</heading>
+			<tilt>7.740857168347014</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>55182.74158942513</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B79F173B713E2FAF5D3</styleUrl>
+		<LineString>
+			<coordinates>
+				135.2287445386174,34.63657400125103,5.723080657817068 136.0871220792084,34.67944207051088,239.5620835142819 137.1892759372423,34.78312695067387,-54.0464611211635 138.3071203660383,35.04300099038164,284.5909980510013 138.9266816498059,35.29038054012443,441.9731493760382 139.4544036682703,35.54983678120741,227.2432890726901 139.7793215405383,35.55068820303838,-9.85522142562413 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0A8E8C5F5613E3014F17">
+		<name>Aeropuerto Tokyo</name>
+		<LookAt>
+			<longitude>139.7810482439028</longitude>
+			<latitude>35.54717394501151</latitude>
+			<altitude>1.292949577716729</altitude>
+			<heading>82.01639797843397</heading>
+			<tilt>60.0000000007043</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>796.4210669478055</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B79F173B713E2FAF5D3</styleUrl>
+		<Point>
+			<coordinates>139.7814048128015,35.54839574055023,1.667537478219363</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BDDC5435E13E30771F0">
+		<name>Camino a Shibuya</name>
+		<LookAt>
+			<longitude>139.610215691544</longitude>
+			<latitude>35.62632134157908</latitude>
+			<altitude>29.90814626164742</altitude>
+			<heading>6.372531597003576</heading>
+			<tilt>7.733836705636969</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>49337.11220890749</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B79F173B713E2FAF5D3</styleUrl>
+		<LineString>
+			<coordinates>
+				139.7794084447241,35.55200623051174,5.964745640701365 139.7566773058887,35.57888820324169,5.538126636080511 139.7549875072661,35.60965036237993,5.596761073435863 139.7495192168684,35.61834937351787,5.640741847063177 139.725157869085,35.61936513674944,5.423230126733964 139.7015702499866,35.63859891417094,29.72635424220595 139.6899114230879,35.65415810790617,30.02048840121082 139.7067122268166,35.6582194408073,25.42437322653801 139.7055248367847,35.662373714682,25.44107276751168 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="07C6CF80B913E302610E">
+		<name>Shibuya</name>
+		<gx:mid>/m/012xky</gx:mid>
+		<gx:fid>0x60188cb2eb3108d1:0xf11cd9b2395b6677</gx:fid>
+		<LookAt>
+			<longitude>139.69260045</longitude>
+			<latitude>35.66687450000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>9443.178248977003</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04E1E5BAE313E2FF0844</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.703795,35.6619707,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BC509141E13E307DE0F">
+		<name>Camino a Akihabara</name>
+		<LookAt>
+			<longitude>139.7238132830302</longitude>
+			<latitude>35.62623185044597</latitude>
+			<altitude>30.19574118155226</altitude>
+			<heading>6.375424645419028</heading>
+			<tilt>7.757325154854898</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>68894.41059957258</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B79F173B713E2FAF5D3</styleUrl>
+		<LineString>
+			<coordinates>
+				139.7067765093522,35.66513084637662,30.36404509154484 139.7740154072532,35.69720970436806,30.7767080125387 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="09D9E0668E13E302E09D">
+		<name>Akihabara</name>
+		<gx:mid>/m/0119m</gx:mid>
+		<gx:fid>0x60188ea73ea6f4ff:0x5eb9f1e50fe061e3</gx:fid>
+		<LookAt>
+			<longitude>139.77455205</longitude>
+			<latitude>35.70217255</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>838.6464144993806</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04E1E5BAE313E2FF0844</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>139.7744733,35.7022589,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08F00C0A2013E3082415">
+		<name>Camino Tokyo Skytree</name>
+		<LookAt>
+			<longitude>139.7238132830302</longitude>
+			<latitude>35.62623185044597</latitude>
+			<altitude>30.19574118155226</altitude>
+			<heading>6.375424645419028</heading>
+			<tilt>7.757325154854898</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>68894.41059957258</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B79F173B713E2FAF5D3</styleUrl>
+		<LineString>
+			<coordinates>
+				139.7775744596992,35.69995149239084,30.55775696102581 139.8109254134952,35.7110818415014,-9.389134901308813 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0A834D736D13E3044CC5">
+		<name>Tokyo Skytree</name>
+		<LookAt>
+			<longitude>139.81316785147</longitude>
+			<latitude>35.70863227292919</latitude>
+			<altitude>23.75438508282775</altitude>
+			<heading>120.9199202993227</heading>
+			<tilt>45.00549572364697</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1702.780904490792</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B79F173B713E2FAF5D3</styleUrl>
+		<Point>
+			<coordinates>139.8107208931519,35.71005991836116,624.8726321612071</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

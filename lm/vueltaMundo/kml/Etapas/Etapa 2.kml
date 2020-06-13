@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Etapa 2</name>
+	<gx:CascadingStyle kml:id="__managed_style_018EB7B8CA13DD6868F2">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_050DA2321F13DD6868F1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F407BA0C813DD6868F1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_018EB7B8CA13DD6868F2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_26F6593FF313DD5C36A6">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1F407BA0C813DD6868F1">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_18132BAE5313DD5C36A6">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_07720D031213DD5C36A6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_18132BAE5313DD5C36A6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_26F6593FF313DD5C36A6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0F942D046413DD5C36A6">
+		<name>Aeropuerto Barajas</name>
+		<LookAt>
+			<longitude>-3.585428821614403</longitude>
+			<latitude>40.49538747721471</latitude>
+			<altitude>611.2826172024702</altitude>
+			<heading>-133.1491934819123</heading>
+			<tilt>59.98948177065689</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1419.459598704125</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07720D031213DD5C36A6</styleUrl>
+		<Point>
+			<coordinates>-3.589409809875945,40.49057881065503,615.2834574996693</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D0641E72B13DD5E45F6">
+		<name>Vuelo a Sudafrica</name>
+		<LookAt>
+			<longitude>28.24134931332641</longitude>
+			<latitude>-26.13600065022771</latitude>
+			<altitude>1677.85324942427</altitude>
+			<heading>22.29853561423009</heading>
+			<tilt>43.69162522723885</tilt>
+			<gx:fovy>34.99998945682569</gx:fovy>
+			<range>5091.253405912431</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07720D031213DD5C36A6</styleUrl>
+		<LineString>
+			<coordinates>
+				-3.559096122871627,40.47576399427253,604.5041335079874 -3.408509469945356,39.83798532106151,743.0971787119175 -2.954890252054873,38.32859890201416,645.9112316171637 -1.539489976375703,34.50399564710846,1073.081275013636 0.1477704091027765,30.51230089133476,524.9271878990086 5.210275883689732,18.57061789455672,-8827.572960300948 11.81122530601746,10.93590651264107,-2132.096826142252 18.37649210564741,0.3173016588353268,-757.8830042909262 23.96575624299949,-11.09424503196193,1332.611480481826 25.7009311550769,-25.79943643756274,-1391.018388140628 28.23732041042603,-26.13742820931515,1686.696429345739 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0F850ABE8513DD6240FE">
+		<name>Aeropuerto de Johannesburgo</name>
+		<LookAt>
+			<longitude>28.23760928855167</longitude>
+			<latitude>-26.1332646522466</latitude>
+			<altitude>1683.0418900495</altitude>
+			<heading>24.34150914450708</heading>
+			<tilt>54.61166401092341</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1741.199907768751</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07720D031213DD5C36A6</styleUrl>
+		<Point>
+			<coordinates>28.23653221978399,-26.13319298058139,1686.553922526399</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03715D6E5013DD6765A2">
+		<name>Camino a Museo del Aparheid</name>
+		<LookAt>
+			<longitude>28.02132152146757</longitude>
+			<latitude>-26.23543652288681</latitude>
+			<altitude>1705.726707548032</altitude>
+			<heading>4.163598265510285</heading>
+			<tilt>3.437270201098289</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2573.960854621546</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07720D031213DD5C36A6</styleUrl>
+		<LineString>
+			<coordinates>
+				28.23648031808251,-26.13361415401754,1684.434738518053 28.21071343604786,-26.12903597415107,1695.176903467514 28.19859886249883,-26.13552260771395,1692.38631719715 28.18954895251724,-26.14189689865283,1667.388146770113 28.17104658766595,-26.15105992533116,1639.033961649196 28.1582233291097,-26.16039838197797,1645.846259414148 28.14541531221403,-26.1656200328081,1624.07353443765 28.13424835621523,-26.16924437430524,1607.26476725161 28.13101956952978,-26.17532461273698,1608.092409788304 28.13412208530129,-26.18667610778257,1637.338277864513 28.13573103605026,-26.20409651277337,1682.518567011547 28.13421067271917,-26.21215960936963,1668.852230860339 28.11122704985754,-26.21085215676212,1672.099050780999 28.09739585891403,-26.21140932072604,1691.509224061088 28.08097980644119,-26.21264921998721,1691.423088024225 28.06288927008983,-26.21293473179205,1691.789153229081 28.04462286888008,-26.2128224971991,1743.619907705686 28.0278298879222,-26.21240684414451,1726.22843288883 28.01946712674413,-26.22585099322037,1692.993523435904 28.0153574511547,-26.23893040513499,1708.443436805142 28.01140350317333,-26.23755556336359,1702.5340949452 28.00865174042434,-26.23863895421504,1710.184196339508 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0986DEA95013DD6868F0">
+		<name>Museo del Apartheid</name>
+		<gx:mid>/m/06yt9x</gx:mid>
+		<gx:fid>0x1e95093047fedeab:0x192ba3244efba5f4</gx:fid>
+		<LookAt>
+			<longitude>28.0083713</longitude>
+			<latitude>-26.2378709</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>935.9771250485857</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_050DA2321F13DD6868F1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>28.0083713,-26.2378709,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="083B19B86813DD717826">
+		<name>Camino a la casa de Mandela</name>
+		<LookAt>
+			<longitude>27.98010907379549</longitude>
+			<latitude>-26.22817069768234</latitude>
+			<altitude>1679.199517664568</altitude>
+			<heading>77.25869179583032</heading>
+			<tilt>45.02307392572788</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4565.771614910918</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07720D031213DD5C36A6</styleUrl>
+		<LineString>
+			<coordinates>
+				28.0088096249892,-26.23866221138199,1711.221785839196 28.01176171406428,-26.23741251753173,1702.563029538266 28.01572426047585,-26.239032686685,1708.823820410543 28.01963539346159,-26.22921749271085,1682.901264278647 28.00814905379963,-26.22953795656808,1679.85093287954 27.99856656623096,-26.22921621657458,1682.337583514592 27.99177438424819,-26.23016435103323,1679.544250340798 27.98122175635607,-26.23127919730129,1690.482013235473 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0387B1086E13DD722FA1">
+		<name>SoccerCity </name>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>x7FBwm2h-8MWNMzHajNRJA</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>27.98148188710461</longitude>
+			<latitude>-26.23164418115092</latitude>
+			<altitude>1697.209228515884</altitude>
+			<heading>162.3590213388411</heading>
+			<tilt>93.77842779201488</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_07720D031213DD5C36A6</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>27.98148188710461,-26.23164418115092,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0086DBE6E213DD77F2F0">
+		<name>Estadio SoccerCity</name>
+		<gx:mid>/g/11bc5766hs</gx:mid>
+		<gx:fid>0x1e95090d44757ecb:0x12892e9b33f65a14</gx:fid>
+		<LookAt>
+			<longitude>27.9826554</longitude>
+			<latitude>-26.2347569</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>936.0049263193296</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_050DA2321F13DD6868F1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>27.9826554,-26.2347569,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0243071FAD13DD74DEDD">
+		<name>Camino casa de Mandela</name>
+		<LookAt>
+			<longitude>27.92416152391007</longitude>
+			<latitude>-26.24086859625392</latitude>
+			<altitude>1648.987189589079</altitude>
+			<heading>52.4803324979224</heading>
+			<tilt>45.01610338304398</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3469.209351031459</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07720D031213DD5C36A6</styleUrl>
+		<LineString>
+			<coordinates>
+				27.98095479043027,-26.23170579906406,1694.355847604496 27.97256682855269,-26.23416996549446,1700.711789987244 27.96695605552614,-26.2329682777257,1699.565035822297 27.96057148118789,-26.23144601257358,1693.051172016107 27.95473858431223,-26.23380510251375,1670.206689912035 27.94645112919515,-26.23330639179284,1659.435538840939 27.93845599368439,-26.23315675396695,1671.896632521609 27.92891878235161,-26.22458747041235,1623.378469239114 27.92114819309997,-26.23018477067077,1608.626611529027 27.914493889022,-26.23529423168528,1596.727951302772 27.91266804588849,-26.24058917985876,1593.15724710363 27.91142647096628,-26.23893947544384,1600.206990828133 27.90983886016414,-26.23897362004492,1607.11194845504 27.90879489956946,-26.23862877188478,1614.958524404076 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0E26BF0FCB13DD758371">
+		<name>Casa de Nelson Mandela</name>
+		<gx:mid>/m/04f2blp</gx:mid>
+		<gx:fid>0x1e95a7459777c379:0xc035dc2fbc09c4a8</gx:fid>
+		<LookAt>
+			<longitude>27.9088411</longitude>
+			<latitude>-26.2385836</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>935.9707617717219</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_050DA2321F13DD6868F1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>27.90884110000001,-26.2385836,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

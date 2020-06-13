@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Etapa 9</name>
+	<gx:CascadingStyle kml:id="__managed_style_2C836A727613E322A110">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1E66E4195613E322A110">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0A0F5AD21A13E3208AEA">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_01195B121E13E322A110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1E66E4195613E322A110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2C836A727613E322A110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1417FB544C13E3208AE9">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A0CF6645313E3208AE9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1417FB544C13E3208AE9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0A0F5AD21A13E3208AEA</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0622C4B03C13E3208AE9">
+		<name>Aeropuerto Peru</name>
+		<LookAt>
+			<longitude>-74.20560802193171</longitude>
+			<latitude>-13.15474982541489</latitude>
+			<altitude>2743.750618134397</altitude>
+			<heading>359.990391662097</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999268658777</gx:fovy>
+			<range>271.465198853366</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A0CF6645313E3208AE9</styleUrl>
+		<Point>
+			<coordinates>-74.20572861556983,-13.15438220795037,2747.907367560203</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02AC6F271A13E325B9AA">
+		<name>Vuelo a Oslo</name>
+		<LookAt>
+			<longitude>11.05926896677876</longitude>
+			<latitude>60.1803850905427</latitude>
+			<altitude>152.2639541480849</altitude>
+			<heading>40.44042604693348</heading>
+			<tilt>5.630070864208281</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>10774.5991691784</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A0CF6645313E3208AE9</styleUrl>
+		<LineString>
+			<coordinates>
+				-74.20345506112663,-13.15634228247027,2785.962241812737 -69.56150581770892,-9.388022380860628,175.6122381848079 -64.87090096085684,-3.677500326377642,288.7622388078976 -57.78380924995497,6.417765218989372,-903.6097299497477 -49.25872136906482,21.69667051042331,-4651.549730189463 -33.85768608155904,38.66941753958078,-1266.643149160113 -4.038473898535388,58.84009914841551,-337.739298939372 1.543031747109758,59.58069991803694,-3103.660834091424 11.0978601675791,60.19574617172167,204.3824771474176 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="05DE146DF913E3220296">
+		<name>Aeropuerto Oslo</name>
+		<LookAt>
+			<longitude>11.10071611925028</longitude>
+			<latitude>60.19576085705102</latitude>
+			<altitude>206.1102798760771</altitude>
+			<heading>9.955133372673195</heading>
+			<tilt>41.13050204557412</tilt>
+			<gx:fovy>34.99999999971214</gx:fovy>
+			<range>1655.87444974808</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A0CF6645313E3208AE9</styleUrl>
+		<Point>
+			<coordinates>11.09861963627048,60.19569472000207,205.7333961523464</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03A3BAD0DC13E326D927">
+		<name>Camino a TrollTunga</name>
+		<LookAt>
+			<longitude>7.709838113913534</longitude>
+			<latitude>60.58849302904054</latitude>
+			<altitude>1355.018581707246</altitude>
+			<heading>39.62538756678853</heading>
+			<tilt>56.14419913834803</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>427057.3773454876</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A0CF6645313E3208AE9</styleUrl>
+		<LineString>
+			<coordinates>
+				5.360143687643446,60.36920994498967,84.43726415701687 5.855134496282619,60.41849175339414,569.0631845617013 6.253752293608825,60.39566653002817,122.2615236148495 6.611145242923692,60.50010358136289,484.8357101507297 6.798783556400394,60.48542577265098,345.2421318563437 6.888718674078788,60.3140110586522,1098.181158229052 6.770213695256477,60.14186577946456,1317.522193210792 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="065394763E13E322A10E">
+		<name>Hanseviertel Bryggen</name>
+		<gx:mid>/g/11b7qt1bq0</gx:mid>
+		<gx:fid>0x463cfea7db5b69d5:0x784876a21aa2c869</gx:fid>
+		<LookAt>
+			<longitude>5.3235127</longitude>
+			<latitude>60.397086</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>490.2563455389442</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01195B121E13E322A110</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>5.323512699999999,60.397086,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="073F2003CA13E322D222">
+		<name>Puerto de Bergen</name>
+		<gx:mid>/m/03c__2y</gx:mid>
+		<gx:fid>0x463cfc1d1039896d:0x8f2c84353fcaf974</gx:fid>
+		<LookAt>
+			<longitude>5.320637700000001</longitude>
+			<latitude>60.3967943</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>490.2610156599121</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01195B121E13E322A110</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>5.3206377,60.3967943,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04C6E9FDEB13E3269ED2">
+		<name>Camino a Bryggen</name>
+		<LookAt>
+			<longitude>9.926212206005847</longitude>
+			<latitude>60.87347317293536</latitude>
+			<altitude>813.458756538303</altitude>
+			<heading>41.8204563733162</heading>
+			<tilt>58.84458129517465</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>801533.1434798241</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A0CF6645313E3208AE9</styleUrl>
+		<LineString>
+			<coordinates>
+				11.10382250999143,60.1887794943249,199.6140263204753 9.825976788284155,60.26077488986058,252.7014902926673 8.579962085149756,60.29311435006783,1165.046861768521 7.440672498576786,60.38478019114213,1120.498204458175 5.745240845562041,60.4817170102512,315.0895109814571 5.30756007173972,60.37528676676411,-0.6636209569657936 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0AD27AF1A313E32312D9">
+		<name>Trolltunga</name>
+		<gx:mid>/m/0fmnd4</gx:mid>
+		<gx:fid>0x463e997b1b732151:0x9b7c92bfdc268ed8</gx:fid>
+		<LookAt>
+			<longitude>6.74</longitude>
+			<latitude>60.12416655</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2355.624482523225</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01195B121E13E322A110</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>6.74,60.124167,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
