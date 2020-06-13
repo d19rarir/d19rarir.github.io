@@ -72,5 +72,23 @@ xsi:noNamespaceSchemaLocation="viaje.xsd">
             <kml>https://www.google.com/maps/d/u/0/embed?mid=1EaiDAC6FKDxi6D_1DDBo1sk_yhTZ29Oi</kml>
         </etapa>
 
+        <!-- Etapa 4 -->
+        <etapa num="4" fecha="13/03/2021">
+            <ciudad_salida>Sudafrica</ciudad_salida>
+            <ciudad_llegada>Dubai</ciudad_llegada>
+            <transporte>Avión</transporte>
+            <precio>300</precio>
+            <anecdota>Hacer Paracaidismo La Mejor Locura de Dubai</anecdota>
+            <descripcion>
+                Sudáfrica fue increible pero tocaba volar a Dubai. Ciudad lujosa donde las haya, una pasada ver tanto 
+                lujo y el diseño tan moderno de la ciudad. Rascacielos, casinos, espectaculos de todo para entretener
+                el turismo, incluso tuve el placer de conducir algún coche de alta gama en el circuito de Motor City.
+                Por último, tuve una de las mejores y más espectacular de las experiencias de mi vida, Paracaidismo en
+                Palma Jebel Ali.
+            </descripcion>
+            <foto>./img/Dubai.jpg</foto>
+            <kml>https://www.google.com/maps/d/u/0/embed?mid=19iPyvKOwgohpWpe0TtfwSCnLqTIbsA2E</kml>
+        </etapa>
+
     </viaje>
 </viajes>
